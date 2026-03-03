@@ -19,7 +19,7 @@ from sqlalchemy import text
 
 TRACKING_SCHEMA = "master"
 TRACKING_TABLE = "table_sync_status"
-INCREMENTAL_SCHEMA = "CentricityPS_incremental_24_01_2026"
+INCREMENTAL_SCHEMA = "dump_daily"
 
 DATE_CANDIDATES = [
     "Created",

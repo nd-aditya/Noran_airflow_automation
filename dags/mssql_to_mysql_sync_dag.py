@@ -4,6 +4,7 @@ DAG: Incremental sync from MSSQL (CentricityPS) to MySQL.
 Connection details are in service/connection_config.py; engines are built from there.
 """
 
+import logging
 import sys
 import urllib.parse
 from datetime import datetime
@@ -72,10 +73,9 @@ def run_mssql_to_mysql_sync(**context):
             eng_mssql,
             eng_mysql,
             tables=SYNC_TABLES,
-            log_fn=lambda msg: context["ti"].log.info(msg) if context.get("ti") else print(msg),
+            log_fn=logging.info,
         )
-        if context.get("ti"):
-            context["ti"].log.info(f"Sync complete. Total rows inserted: {total}")
+        logging.info("Sync complete. Total rows inserted: %s", total)
         return total
     finally:
         eng_mssql.dispose()

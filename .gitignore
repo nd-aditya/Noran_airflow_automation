@@ -1,0 +1,26 @@
+# Airflow
+logs/
+*.log
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env / IDE
+.env
+.venv
+venv/
+.idea/
+.vscode/
+*.swp
+*.swo

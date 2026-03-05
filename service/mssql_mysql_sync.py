@@ -13,13 +13,16 @@ import traceback
 import pandas as pd
 from sqlalchemy import text
 
-# -----------------------------------------------------
-# CONFIG (overridable via run_sync kwargs)
-# -----------------------------------------------------
+from service.connection_config import (
+    TRACKING_SCHEMA,
+    TRACKING_TABLE,
+    INCREMENTAL_SCHEMA,
+    ORIGINAL_SCHEMA,
+)
 
-TRACKING_SCHEMA = "master"
-TRACKING_TABLE = "table_sync_status"
-INCREMENTAL_SCHEMA = "dump_daily"
+# -----------------------------------------------------
+# CONFIG (defaults from connection_config; overridable via run_sync kwargs)
+# -----------------------------------------------------
 
 DATE_CANDIDATES = [
     "Created",
@@ -339,3 +342,95 @@ def run_sync(
             traceback.print_exc()
             raise
     return total_rows
+
+
+# -----------------------------------------------------
+# ND_AUTO_INCREMENT_ID STEP (post-extraction)
+# -----------------------------------------------------
+
+
+def add_nd_auto_increment_id_step(
+    eng_mysql,
+    tables,
+    original_schema=None,
+    incremental_schema=None,
+    log_fn=None,
+):
+    """
+    For each table in the incremental schema: ensure column nd_auto_increment_id exists,
+    then set it to a running sequence starting at (original table row count + 1).
+
+    - eng_mysql: SQLAlchemy engine for MySQL.
+    - tables: list of table names to process.
+    - original_schema: schema used to get COUNT(*) per table (default from connection_config).
+    - incremental_schema: schema where synced data lives (default from connection_config).
+    - log_fn: optional logging function.
+
+    Returns a list of dicts with table_name, original_count, status.
+    """
+    orig = original_schema or ORIGINAL_SCHEMA
+    inc = incremental_schema or INCREMENTAL_SCHEMA
+    log = log_fn or print
+    report = []
+
+    with eng_mysql.connect() as conn:
+        for table in tables:
+            table = table.strip()
+            status = "Success"
+            original_count = 0
+            try:
+                # STEP 1: Get count from original schema (0 if table does not exist there)
+                try:
+                    count_sql = text(
+                        f"SELECT COUNT(*) FROM `{orig}`.`{table}`"
+                    )
+                    original_count = conn.execute(count_sql).scalar()
+                except Exception:
+                    original_count = 0
+
+                # STEP 2: Check if column exists in incremental table
+                check_sql = text("""
+                    SELECT COUNT(*)
+                    FROM INFORMATION_SCHEMA.COLUMNS
+                    WHERE TABLE_SCHEMA = :schema
+                      AND TABLE_NAME = :tbl
+                      AND COLUMN_NAME = 'nd_auto_increment_id'
+                """)
+                col_exists = conn.execute(
+                    check_sql, {"schema": inc, "tbl": table}
+                ).scalar()
+
+                # STEP 3: Add column if missing
+                if not col_exists:
+                    log(f"Adding column nd_auto_increment_id to {inc}.{table}...")
+                    conn.execute(text(f"""
+                        ALTER TABLE `{inc}`.`{table}`
+                        ADD COLUMN nd_auto_increment_id BIGINT
+                    """))
+                    conn.commit()
+
+                # STEP 4: Backfill sequence starting at original_count + 1
+                conn.execute(text("SET @row_num = :start"), {"start": original_count})
+                update_sql = text(f"""
+                    UPDATE `{inc}`.`{table}`
+                    SET nd_auto_increment_id = (@row_num := @row_num + 1)
+                    ORDER BY (SELECT NULL)
+                """)
+                conn.execute(update_sql)
+                conn.commit()
+                log(f"{table}: nd_auto_increment_id set (starting at {original_count + 1})")
+            except Exception as e:
+                status = f"Failed: {str(e)}"
+                log(f"Error on {table}: {e}")
+                try:
+                    conn.rollback()
+                except Exception:
+                    pass
+
+            report.append({
+                "table_name": table,
+                "original_count": original_count,
+                "status": status,
+            })
+
+    return report

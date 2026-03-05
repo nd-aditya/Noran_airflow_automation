@@ -19,11 +19,16 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 from sqlalchemy import create_engine
 
-from service.connection_config import MSSQL_CONN_PARAMS, MYSQL_CONN_PARAMS
-from service.mssql_mysql_sync import run_sync
+from service.connection_config import (
+    MSSQL_CONN_PARAMS,
+    MYSQL_CONN_PARAMS,
+    INCREMENTAL_SCHEMA,
+    ORIGINAL_SCHEMA,
+)
+from service.mssql_mysql_sync import run_sync, add_nd_auto_increment_id_step
 
 # Optional: sync only these tables (None = discover from MSSQL)
-SYNC_TABLES = None  # e.g. ["DOCDATA", "DOCDATA2"] to limit tables
+SYNC_TABLES = ["ALLERGY"]  # test on ALLERGY only; set to None to sync all tables
 
 
 def _make_mssql_engine():
@@ -82,6 +87,28 @@ def run_mssql_to_mysql_sync(**context):
         eng_mysql.dispose()
 
 
+def run_add_nd_auto_increment_id(**context):
+    """Post-extraction step: add and backfill nd_auto_increment_id for synced tables."""
+    tables = SYNC_TABLES
+    if not tables:
+        logging.info("SYNC_TABLES is empty or None; skipping nd_auto_increment_id step.")
+        return []
+    eng_mysql = _make_mysql_engine()
+    try:
+        report = add_nd_auto_increment_id_step(
+            eng_mysql,
+            tables,
+            original_schema=ORIGINAL_SCHEMA,
+            incremental_schema=INCREMENTAL_SCHEMA,
+            log_fn=logging.info,
+        )
+        for r in report:
+            logging.info("nd_auto_increment_id: %s", r)
+        return report
+    finally:
+        eng_mysql.dispose()
+
+
 with DAG(
     dag_id="mssql_to_mysql_sync",
     start_date=datetime(2025, 1, 1),
@@ -93,3 +120,8 @@ with DAG(
         task_id="run_incremental_sync",
         python_callable=run_mssql_to_mysql_sync,
     )
+    add_nd_id_task = PythonOperator(
+        task_id="add_nd_auto_increment_id",
+        python_callable=run_add_nd_auto_increment_id,
+    )
+    sync_task >> add_nd_id_task

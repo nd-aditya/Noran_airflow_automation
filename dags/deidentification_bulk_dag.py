@@ -27,9 +27,9 @@ from service.deidentification_api import start_bulk_deidentification
 # --- Hardcoded config: set to your client, dump, and table list ---
 DEID_CLIENT_ID = 1
 DEID_DUMP_ID = 7  # match your UI path /clients/1/dumps/7/
-# API base URL: backend runs with daphne -b 0.0.0.0 -p 13800 (Django/ASGI). Override with Variable "deid_api_base_url" if needed.
-# UI may be on a different port (e.g. 13000); API is on 13800.
-DEID_API_BASE_URL_DEFAULT = "http://10.1.64.35:13800/api"
+# API base URL: backend (daphne) on 13800. Django routes are at root (e.g. deid/start/...), no /api prefix.
+# Override with Airflow Variable "deid_api_base_url" if needed.
+DEID_API_BASE_URL_DEFAULT = "http://10.1.64.35:13800"
 DEID_TABLE_NAMES = [
     "PatientProfile",
     # Add more table names as needed.

@@ -27,7 +27,7 @@ def start_bulk_deidentification(
 
     - client_id, dump_id: from your existing dump (created from UI).
     - table_names: list of table names to deidentify.
-    - base_url: API base (e.g. http://localhost:8000/api), no trailing slash.
+    - base_url: Backend root (e.g. http://10.1.64.35:13800), no trailing slash. No /api prefix if Django mounts nd_api at root.
     - auth_headers: optional dict, e.g. {"Authorization": "Bearer <token>"}.
 
     Returns the API response as a dict. Raises on HTTP or connection error.

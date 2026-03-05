@@ -25,3 +25,10 @@ MYSQL_CONN_PARAMS = {
     "password": "ndADMIN@2025",
     "database": "",  # sync uses its own schema
 }
+
+# Sync / incremental schema config (used by mssql_mysql_sync and DAG)
+TRACKING_SCHEMA = "master"
+TRACKING_TABLE = "table_sync_status"
+INCREMENTAL_SCHEMA = "dump_daily"
+# Schema used to get row count for nd_auto_increment_id starting value (post-sync step)
+ORIGINAL_SCHEMA = "centricityps_original_16oct"

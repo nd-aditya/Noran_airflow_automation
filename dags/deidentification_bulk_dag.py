@@ -19,17 +19,19 @@ if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
 
 from airflow import DAG
+from airflow.models import Variable
 from airflow.operators.python import PythonOperator
 
 from service.deidentification_api import start_bulk_deidentification
 
-# --- Hardcoded config: set to your client, dump, API URL, and table list ---
+# --- Hardcoded config: set to your client, dump, and table list ---
 DEID_CLIENT_ID = 1
-DEID_DUMP_ID = 1
-DEID_API_BASE_URL = "http://localhost:8000/api"
+DEID_DUMP_ID = 7
+# API URL: use Airflow Variable "deid_api_base_url" if set (Admin -> Variables), else this default.
+# Must be the URL where DEPORTAL Django is running (e.g. http://127.0.0.1:8000/api or http://<host>:8000/api).
+DEID_API_BASE_URL_DEFAULT = "http://127.0.0.1:8000/api"
 DEID_TABLE_NAMES = [
-    "PatientProfile",
-    "PatientVisit",
+    "PatientProfile"
     # Add more table names as needed.
 ]
 # Optional: if your API requires auth, set e.g. {"Authorization": "Bearer <token>"}
@@ -37,11 +39,12 @@ DEID_AUTH_HEADERS = None
 
 
 def run_bulk_deidentification(**context):
+    base_url = Variable.get("deid_api_base_url", default_var=DEID_API_BASE_URL_DEFAULT)
     result = start_bulk_deidentification(
         client_id=DEID_CLIENT_ID,
         dump_id=DEID_DUMP_ID,
         table_names=DEID_TABLE_NAMES,
-        base_url=DEID_API_BASE_URL,
+        base_url=base_url,
         auth_headers=DEID_AUTH_HEADERS,
     )
     logging.info("Deidentification API response: %s", result)

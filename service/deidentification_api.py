@@ -49,4 +49,7 @@ def start_bulk_deidentification(
         raise RuntimeError(f"Deidentification API error {e.code}: {body}") from e
     except urllib.error.URLError as e:
         LOG.error("Deidentification API URL error: %s", e.reason)
-        raise RuntimeError(f"Deidentification API request failed: {e.reason}") from e
+        raise RuntimeError(
+            f"Deidentification API request failed: {e.reason}. "
+            "Ensure the DEPORTAL Django server is running and base_url is correct (e.g. http://127.0.0.1:8000/api)."
+        ) from e

@@ -11,7 +11,7 @@ manually (e.g. start_workers.sh or python manage.py start_worker) to process the
 
 import logging
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 _project_root = Path(__file__).resolve().parent.parent
@@ -26,13 +26,12 @@ from service.deidentification_api import start_bulk_deidentification
 
 # --- Hardcoded config: set to your client, dump, and table list ---
 DEID_CLIENT_ID = 1
-DEID_DUMP_ID = 1
-# API URL: use Airflow Variable "deid_api_base_url" if set (Admin -> Variables), else this default.
-# Must be the URL where DEPORTAL Django is running (e.g. http://127.0.0.1:8000/api or http://<host>:8000/api).
-DEID_API_BASE_URL_DEFAULT = "http://127.0.0.1:8000/api"
+DEID_DUMP_ID = 7  # match your UI path /clients/1/dumps/7/
+# API base URL: backend runs with daphne -b 0.0.0.0 -p 13800 (Django/ASGI). Override with Variable "deid_api_base_url" if needed.
+# UI may be on a different port (e.g. 13000); API is on 13800.
+DEID_API_BASE_URL_DEFAULT = "http://10.1.64.35:13800/api"
 DEID_TABLE_NAMES = [
-    "PatientProfile",
-    "PatientVisit",
+    "PatientProfile"
     # Add more table names as needed.
 ]
 # Optional: if your API requires auth, set e.g. {"Authorization": "Bearer <token>"}
@@ -64,4 +63,6 @@ with DAG(
     trigger_bulk_deid = PythonOperator(
         task_id="trigger_bulk_deidentification",
         python_callable=run_bulk_deidentification,
+        retries=3,
+        retry_delay=timedelta(seconds=30),
     )

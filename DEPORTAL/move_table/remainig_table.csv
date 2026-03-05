@@ -1,0 +1,37 @@
+SchemaName,TableName,RowCounts
+dbo,AUDIT_EVENT,640457693
+dbo,DOCCONTB,265200124
+dbo,DOCDATA,75850532
+dbo,OBS,27634473
+dbo,DOCUMENT,20598916
+dbo,ActivityLog,17021874
+dbo,cus_Scheduler_1_Search_ZeroCountDays,16620310
+dbo,ORDERS,7460913
+dbo,cus_orders_bak_20220221,5620450
+dbo,PRESCRIB,2851634
+dbo,cus_completeOrders,136402
+dbo,PatientVisitAmbulance,87020
+dbo,_Ref Phys Zips,9560
+dbo,SUUpgradeDBIndexes,1412
+dbo,SUModelCPSIndexes,1385
+dbo,SUCPSIndexes,1382
+dbo,DESKDOCVIEWS,149
+dbo,SUIndexesToDropInUpgradeDB,74
+dbo,SUIndexesToCreateInUpgradeDB,39
+dbo,SUModelCPSDeveloperIndexes,5
+dbo,Cus_EZP_Online_Forms_Groups,1
+dbo,Cus_EZP_AppointmentRequests,0
+dbo,CHRTRULE,0
+dbo,Cus_EZP_Statement_Data,0
+dbo,Cus_EZP_Statement_PaperData,0
+dbo,Cus_EZP_StatementQueue,0
+dbo,Cus_EZP_TransDetail,0
+dbo,Cus_EZP_TransDetail2,0
+dbo,Cus_EZP_NewRegistrations,0
+dbo,Cus_EZP_PatCheckins,0
+dbo,Cus_EZP_BillPayRequests,0
+dbo,Cus_EZP_EligInsCarriers,0
+dbo,ERXChangeRequest,0
+dbo,Final Ref Phy No Duplicates No Phi,0
+dbo,Final Ref Phy No Duplicates No Phi 2,0
+dbo,ServerSetupValidations,0

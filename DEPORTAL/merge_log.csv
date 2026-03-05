@@ -1,0 +1,36 @@
+table_name,status,message,timestamp
+PatientRace,SUCCESS,"Processed table: common=0, new=553",2026-02-03 07:01:02
+PatientEthnicity,SUCCESS,"Processed table: common=0, new=1026",2026-02-03 07:01:09
+PatientVisit,SUCCESS,"Processed table: common=0, new=91058",2026-02-03 07:01:45
+PatientVisitProcs,SUCCESS,"Processed table: common=0, new=158572",2026-02-03 07:04:12
+PROBLEM,SUCCESS,"Processed table: common=0, new=67226",2026-02-03 07:05:46
+MEDICATE,SUCCESS,"Processed table: common=0, new=225765",2026-02-03 07:10:03
+PRESCRIB,SUCCESS,"Processed table: common=0, new=70994",2026-02-03 07:13:30
+MEDINFO,SUCCESS,"Processed table: common=0, new=48836",2026-02-03 07:13:38
+OBSHEAD,SUCCESS,"Processed table: common=0, new=522",2026-02-03 08:43:30
+HIERGRPS,SUCCESS,"Processed table: common=0, new=118",2026-02-03 08:43:30
+DOCUMENT,SUCCESS,"Processed table: common=0, new=754294",2026-02-03 09:40:47
+DOCOVERLAYINFO,SUCCESS,"Processed table: common=0, new=13581",2026-02-03 09:40:51
+MedLists,SUCCESS,"Processed table: common=4, new=1236",2026-02-03 17:23:48
+MasterDiagnosis,SUCCESS,"Processed table: common=37, new=2663",2026-02-03 17:24:07
+MasterProcedures,SUCCESS,"Processed table: common=20330, new=511",2026-02-03 17:24:14
+Procedures,SUCCESS,"Processed table: common=0, new=6",2026-02-03 17:24:15
+ORDERCODES,SUCCESS,"Processed table: common=0, new=5211",2026-02-03 17:24:18
+ORDERCAT,SUCCESS,"Processed table: common=0, new=112",2026-02-03 17:24:19
+CONFTYPES,SUCCESS,"Processed table: common=0, new=1",2026-02-03 17:24:20
+DOCTYPES,SUCCESS,"Processed table: common=0, new=77",2026-02-03 17:24:20
+EXT_CODE,SUCCESS,"Processed table: common=0, new=168",2026-02-03 17:24:22
+REL_OBS_EXT_CODE,SUCCESS,"Processed table: common=0, new=725276",2026-02-03 17:42:11
+DoctorFacility,SUCCESS,"Processed table: common=0, new=715",2026-02-04 04:37:45
+CONVRATIO,SUCCESS,"Processed table: common=0, new=389",2026-02-04 04:37:45
+Appointments,SUCCESS,"Processed table: common=0, new=126967",2026-02-04 08:39:10
+PatientProfile,SUCCESS,"Processed table: common=0, new=14496",2026-02-05 06:22:00
+L3TaskType,SUCCESS,"Processed table: common=0, new=82",2026-02-05 08:00:25
+LABORDERPANEL,SUCCESS,"Processed table: common=0, new=25771",2026-02-05 08:16:12
+ORDERS,SUCCESS,"Processed table: common=0, new=475103",2026-02-05 14:18:07
+DOCDATA2,SUCCESS,"Processed table: common=0, new=33894",2026-02-06 13:20:18
+DOCCONTB,SUCCESS,"Processed table: common=0, new=14438117",2026-02-08 16:10:01
+DOCDATA,SUCCESS,"Processed table: common=0, new=4276762",2026-02-09 02:26:23
+LOCREG,RERUN,Table `LOCREG` does NOT exist in database `deidentify_client_1_dump_6`,2026-02-23 14:55:27
+LINKLOGIC_EXPORT_FLOWSHEET,RERUN,Table `LINKLOGIC_EXPORT_FLOWSHEET` does NOT exist in database `deidentify_client_1_dump_6`,2026-02-23 14:55:28
+OBS,SUCCESS,"Processed table: common=13159, new=1526850",2026-02-23 16:07:34

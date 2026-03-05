@@ -1,0 +1,6727 @@
+{
+    "dbo.ACTIVEMQ_ACKS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AMH_CHART": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AppLocks": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteriaDelays": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ARCHIVE_DataMove_DETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ARCHIVE_DataMove_DETAIL_ByMonth": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ARCHIVE_DETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUCINDICATION": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUCRECOMMENDATION": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_DETAIL_ARCHIVE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_DETAIL_LOG": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_LOG": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AuthorizedLocations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BARRIER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BARRIER_GOAL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_ARCHIVE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BIOUSER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesGPAuth": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CDS_REID": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_SEQUENCE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CHCDentalProc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.contentlist_lot_backup": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.contentlist_vaccine_refresh": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_AddToCallLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_AddToEmailLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_AmountDrivers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_Called": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ChangeCollectionStatusTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColAgeDrivers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColGlobal": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColGuar": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_CollectionTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColProcessVisits": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColProcessVisitsTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColStatus": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ColStatusAging": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_Emailed": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_GuarantorVisitStatements": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_InsertLevel": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_LettersToPrint": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_MappedStatus": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_ORSecurity": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PatientListHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PatientListLogHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PaymentPlan": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PaymentPlanFound": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PrintConfig": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_Printed": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PVProcessing": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PVProcessingMods": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PVProcessingModstest": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_PVProcessingTest": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_Schedule": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_VTProcessing": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_VTProcessingTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_WorkListParameters": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_WorkListTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACSReport_Config": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Conv_TransferFrom": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Conv_TransferTo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_AddedDocNames": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_AddedDocuments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_Admin": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_DocuBatchFaxBook": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_FaxBookGroups": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_DocuBatchInDxLogic": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_Guarantor": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_GuarantorAging": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_GuarantorPayments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_GuarantorProcs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_GuarantorVisits": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_Patient": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_PatientPayments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ACM_AdvSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ACM_DocLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ACM_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ActionableReminders": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AppointmentsAlloc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Appt_NoShow_Reminders": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Appt_Reminders": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Appt_Reminders_AdvSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Appt_Reminders_MessageSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ApptCancel": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ApptDocSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ApptStatusMappings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ApptType": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ApptTypeSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AskProviderSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AttachmentsTemp": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoCVS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoDirectDoc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoDirectDocLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoFax": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoFaxDoc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoFaxDocLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoFaxHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoHIE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoShareDoc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Booking_Templates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_BookingLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_BulletinBoard": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Call_DNCList": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Call_History": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Call_Queue": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Call_Remove_History": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Call_Status_Details": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CardDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CCD": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CDA": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Chat": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ChatLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Checkin": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CheckIn_NotificationSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CheckInReminderLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ClinicalData": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CollectionCycle": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CollectionHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CollectionLetters": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CollectionLettersHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CollectionQueue": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CRHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CSHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CVSHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DirectAddressBook": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DirectAddressSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DirectMessages": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DirectMessages_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DirectMessages_Pending": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_DocTypes": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_Document": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_Document_Details": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_FileLocation": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_Folder": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_HDID_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_OBSMappings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_PendingDocument": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DM_VFolder": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DOCDATA2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DocErrorLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Docs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AIVisitHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Alerts": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoShareDocType_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoShareFS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_BillingReminderLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Birthday_Reminders": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DocType_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Document": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Document_Sharing": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Document_Sharing_AdvSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Document_Sharing_Contacts": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Document_Sharing_NotificationLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Dynamic_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EDIClaimFile": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligAlertSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligAllocationSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligInsCarriersMap": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligInsCarriersMapAdv": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Email_Settings_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailLog_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailMessages": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailReadLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EMRDocs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EstLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EstTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ExcludeApptTypeSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ExternalAppUploadLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ExtInsCarriers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ExtInsCarriersMap": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ExtInsTransactionTypes": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FacilityNotificationSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxNumber_AdvSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxPath": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FolderLst": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_HIESettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_HL7Log": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_InsExpAlertLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_InsExpAlertTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_KCMLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_ASNHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_ASNTemplate": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_RRTemplate": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_Templates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_Templates_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_VoiceRecordingTag": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MessageRestSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MessageRestSettings2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Messages": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Messages_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Messages2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MessageSig_Templates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MID": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MIDLocation": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MIDTerminal": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MsgSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_LoginExpReq": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_LoginHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MBILog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxStatus": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FileLocations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_AltLanguage": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_ANHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_NewlyRegistered": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_NewRegistrations_Contacts": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_NoShowReminders_MessageSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_OnDemand_Forms": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_Answers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_Answers_Internal": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_DocNotSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_FacNotSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatAgreementDocs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatAgreements": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatAgreements_Answers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatAgreements_Message_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatAgreements_Questions": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatApptReasons": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatApptReasons2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatApptReasonsLink": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Patient_Docs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Patient_Videos": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Patient_VideosHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientFiles": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientGroup": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientLst": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientProfileAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientRegistry": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientRegistryDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientRegistryLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientRegistryMeasures": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientStatement": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatInformationDocs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatInformationDocsHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatRestSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatSurveys": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatVisitBillingLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatVisitBillingTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PaymentPlan": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PaymentSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingEmails": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingEmails_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingMULog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingPortalAccess": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingPortalAccess_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingTasks": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PendingTasks_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Pharmacy": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Phone_ApptRem_MessageSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_OracleFacilityLOCSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_OracleProviderSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_OrderNotification_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PhoneApptRemindersTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PortalDesignSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PortalInvitations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PortalOverrideSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PortalSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Prescriptions": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PriorAuthHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Products": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ProviderNotificationSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PushNotifications": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Query": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Recall_AutoCreateTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RecallReminderLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RefillRequests": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_Message_Settings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Register": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RegUpdate": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Reminders": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Reminders_Log": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Resource_MessageSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ResType": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RPMData": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RPMUserDevice": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RxFlagSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ScheduleTransDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ServiceToken": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ServiceTokenHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_SMDocType": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_AGHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_AGSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_BillCodeMessages": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_Messages": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperCOA": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperSettingHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperTemplate": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperTemplateCriteria": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperTemplateSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_StatementDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_StatementHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_SummaryData": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_SureScripts_Directory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Surveys": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Symptoms": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TelemetryLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVGuestLogin": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVisitChatLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVisitDeviceLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVisitDocs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVisitHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVMessageSettings": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVPendingEMRDocCReq": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TMVSession": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TxtApptRemindersTemplates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TxtChat": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TxtHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TxtMessage_Templates": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TxtResponseHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_URXMobile": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_URXPushLst": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_UserDocs": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Users2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_UsersInfo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_UserStatus": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_UsrAgreements": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_VDTHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_VisitHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Users_ExtraInfo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AdminUsers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreatedVisits": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreatedVisits_IG": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreatedVisits_IG_Extended": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_CompanyAssignments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_InsuletDateUpdate": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_InsuranceGroupAssignments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_InsuranceGroupAssignments_Extended": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_AddedFaxRecipients": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_AppointmentDocuments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_AutoSendPatients": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFL_LabelRunRecipients": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_DocumentFaxHistory": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_ExcludedRecipients": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxNumberExclude": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxRecipients": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxStatusProcessing": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_LastRun": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RDOC_ProcessingPatient": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_BankMapping": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_BankTable": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_CompanyMapping": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_ConfigTable": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_InsGroupAdd": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_REFEXP_QuickBooksCompany": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_Refunds": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_UserPermissions": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExpWeb_SelectedCPTRefunds": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPQP_CardDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPQP_MID": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPQP_MIDLocation": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPQP_MIDUser": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPQP_TransDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusFSLicense": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmMikDemoMismatchLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmOrphanPidsInEMR": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA_with_patient_id": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DoctorFacilityTypes": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Document_eCR_Reference": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCVIEW": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.eCRActivityLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ECSInsuranceCarriers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIClaimStatus": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIClaimStatusFile": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ErxAdminMap": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERxRefillDenial": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERXRefillRequest": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTERNALALLERGY": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTERNALMEDICATE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTERNALPROBLEM": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FeeScheduleConversionFactor": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FeeScheduleModifier": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_ApptSearchCriteria": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_Batch": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_BillableEntity": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_Company": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_Facility": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_NamedSchedule": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_ScheduleResource": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_User": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FG_WaitingList": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHIRBulkData": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHIRBulkDataFile": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHIRBulkDataPatient": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHIRBulkDataResource": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHXCUSTLIST": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYALTDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYALTHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOPDRUGDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOPHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOPSUMDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVAGEDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVERAGEDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVERAGEHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVGENDERDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVQUANTITYDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVRSRCDRUGDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVRSRCSUMDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVSTEPMEDDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYCOVTXTMSGDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYSTATUSDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FMYSTATUSHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FoldersControl": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FolderToButtonControl": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FinancialGroup": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FORMMEDS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FORMULARY": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GROWTH": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtAging": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtPayments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtProcedures": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtTargetDelays": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtTargets": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtVisits": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HCCMapping": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HIDUPDATE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTMAPCRS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTPICTS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTTEXTCRS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.IE_OUTBOUND_EVENT_Q": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.IE_PATIENT_EXT_SYSTEM": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ignore_transfer": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.IGNOREOBJECTS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.iLicDemoInfo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HtmlFormLock": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.iLicNamedUser": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.iLicUserInfo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Immunization": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.IMMUNIZATIONPRINT": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ImmunizationQuestionnaireResponse": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ImmunizationRecommendations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ImplantableDevice": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersDoctor": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersFormulary": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersPOS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersTOS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InterventionLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Journal": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3CONTACT": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3DTSRESOURCE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3INSURANC": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3NOTES": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3OBRDATA": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3PERSON": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3RESOURCE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3RESULTS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3SCHEDULE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKRESOURCE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TEMPPID501": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LoginProcWorkStation": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LotManagement": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ManualBookIDToDoctorFacilityID": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ManualLocIDToFacilityID": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MD_RESULTS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedAdministration": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedAdminRequest": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDISPAN_RXNORM": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MISCDEPT": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ML_MASTERMERGE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DDIDRXNORM_DELTA": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DRUGDIS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_ICD9XREF": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MUActivityLog_ARCHIVE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDENCDX": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientApplicationRevocation": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientCorr": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientRace_BAK": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitDMERC": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PaymentMethodAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PaymentPlanAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PERIOD": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRBXREF": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTCHARTTMP": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTDATATMP": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTDRVTMP": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTNOTETMP": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProblemLastClaimed": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PROCINFO": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.qieCdaDoc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.qieCdaEntry": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.QPRINTDOC": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.QPRINTPROPS": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportIdLookup": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportNodesIdLookup": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerConfigLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SERVREG": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SFSAnnum": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SFSPovertyLevel": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SFSSubsidyLevel": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COPDRUGDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COPHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COPSUMMARYDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVAGEDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVERAGEDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVERAGEHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVGENDERDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVQUANTITYDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVRSDRUGDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVRSSUMMARYDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVSTEPMEDDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_COVTEXTDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_FMYALTDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_FMYALTHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_FMYFILEHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_FMYSTATUSDETAIL": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.STG_FMYSTATUSHEADER": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Subscription": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SL_AUTH_TOKEN_CACHE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.sslManualStats_CannotRestore": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.sslManualStats_Dropped": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.sslManualStats_PendingRestore": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUTempUpgradeTablesInfo": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TABLESIZES": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.sysdiagrams": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_QueueTypeAttr": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_QueueTypeCriteria": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskNote": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TwoFactorState": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.UpgradeLog": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USR_MUStage": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USRDEPT": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USREMR": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.WCC": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstalogerrors": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Vendor": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.UNIQUEID": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TWOFACTORAUTHENTICATIONTYPE": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_QueueType": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskType": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TicketNumbers": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUDbUpgradeInfo": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SimpleLists": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProceduresInventory": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitDiagsRelatedCodes": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MUPatchData": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DDS_COPYRIGHT": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_COPYRIGHT": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3LOCKS": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InventoryItem": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.iLicInfo": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GLOBALREFRESH": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIStatement": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIStatementFile": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Employer": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.emridcontrol": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmBookDoctorFacilityMapping": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_OrphanUsrRestored": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_phone_validation_data": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_LicenseDocumentTypes": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxRecipientsPatient": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFL_LicenseDocumentTypes": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFL_LicenseProviderRoles": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_Configuration": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFL_Configuration": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Adj_InsuranceGroups": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_fixAppendDocuments": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_SMPrvDocType": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxCoverPageTemplate": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_Configuration": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CriticalErrorSymbol": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CDS_Parameters": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "extract.CDS_Parameters": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ACTIVEMQ_LOCK": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CarePlan_Problem": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxGroup": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailHistory_Attachments": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.Cus_EZP_BlockList": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxCoverPage": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_WebCal_SearchDefault": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HEALTHCONCERN": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ExportDocumentSettings": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_ICD9XREF_DELTA": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ML_MERGEGLOBALS": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportCriteria": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PROBLEMLISTVIEWNAMES": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.QuestionnaireGroup": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportCriteria": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerSetupValidationTypes": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerConfig": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_QueueStatus": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TWOFACTORDEVICE": {
+        "last_processed": 1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskPriority": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerSetupValidationDBType": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TEMPLATE": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHIR_CACHE_ENTRY": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GOAL_PROBLEM": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RVUC_RVUSchedule": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCVIEWS_TRACKER": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_FollowUpCategory": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Message_ANTemplate": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Phone_Settings": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_FaxRecipientQueue": {
+        "last_processed": 2,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_AOP_AppointmentProvider": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_DocType": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CARETEAMMEMBER": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_TriggerStatus": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ChargeSets": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Users_SearchFilters": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ProTrk_ApprovedUsers": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientAddress": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.INTERVENTION": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3JOBATTRBIND": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LoginProcUsers": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUPERBILLDEF": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_Queue": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskEventType": {
+        "last_processed": 3,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_PatientBillStatusType": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.XSLDATA": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKDestination": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GOAL_HEALTHCONCERN": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.INQTYPE": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_ClaimAdjustmentGroupCodes": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_LicenseProviderRoles": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_NewDocHistory": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Clearinghouse": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ButtonControl": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CARE_PLAN": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AutoShareDoc_Settings": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUCSTATUS": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_SubscriptionRunDate": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FileType": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GPICLUPD": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DoctorFacilityTypeDescr": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_M02_DELTA": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3SUBTASK": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersOrdersApprvProv": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_QueueAccess": {
+        "last_processed": 5,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerSetupEvent": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCFORMAT": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RefExp_RefundReasons": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_SAI_ButtonConfig": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTIDSPACE": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptChain": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_CustomText": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_docbat_debug": {
+        "last_processed": 6,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailGroups": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GOAL": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ImmunizationCPTCodes": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ModuleToControl": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDER_MODIFIERS": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.UI_PANEL": {
+        "last_processed": 7,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_activeLockReport": {
+        "last_processed": 8,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CONFTYPES": {
+        "last_processed": 8,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CareTransInMUFix": {
+        "last_processed": 8,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportNameLookup": {
+        "last_processed": 9,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskStatus": {
+        "last_processed": 9,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.UNIT_FORMS": {
+        "last_processed": 10,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDERDEFAULTS": {
+        "last_processed": 10,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Reminder_Options": {
+        "last_processed": 10,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_Questions": {
+        "last_processed": 10,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RPMCategory": {
+        "last_processed": 11,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.VFCEligibility": {
+        "last_processed": 11,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxNumber": {
+        "last_processed": 12,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PlugIn": {
+        "last_processed": 13,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportSelect": {
+        "last_processed": 13,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TransactionColumnSet": {
+        "last_processed": 13,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USRGROUP": {
+        "last_processed": 14,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ComponentSensitiveReport": {
+        "last_processed": 14,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmJobTitleIDMapping": {
+        "last_processed": 14,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ComponentSensitiveReport": {
+        "last_processed": 14,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._2SipeApptTypeCrosswalk": {
+        "last_processed": 14,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_mergeDuplicateProviderZip": {
+        "last_processed": 15,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HISTVIEWTEMPLATE": {
+        "last_processed": 15,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3FORMATS": {
+        "last_processed": 15,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKTriggerDestination": {
+        "last_processed": 16,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EMRSettings": {
+        "last_processed": 16,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.StatementsCriteria": {
+        "last_processed": 16,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapLocation": {
+        "last_processed": 17,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmMissingRoleLog": {
+        "last_processed": 17,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmRtidMapping": {
+        "last_processed": 17,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.iLicProdInfo": {
+        "last_processed": 18,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportErrorLog": {
+        "last_processed": 18,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._billstatus": {
+        "last_processed": 19,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SequenceNumber": {
+        "last_processed": 19,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.WorkstationSequenceNumber": {
+        "last_processed": 19,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.QuestionnaireQuestionList": {
+        "last_processed": 20,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LOCREG": {
+        "last_processed": 21,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FHxRelationship": {
+        "last_processed": 21,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.eCREventType": {
+        "last_processed": 21,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_Subscription": {
+        "last_processed": 21,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligSearchOptions": {
+        "last_processed": 21,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ROLETYPE": {
+        "last_processed": 22,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Med_Inconsistent_Data_Fix": {
+        "last_processed": 23,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKTrigger": {
+        "last_processed": 23,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SecurityGroup": {
+        "last_processed": 24,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SqlCommand": {
+        "last_processed": 25,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportControlCriteria": {
+        "last_processed": 26,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Action_Tags": {
+        "last_processed": 26,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMessageStatusReason": {
+        "last_processed": 27,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MUActivityLogType": {
+        "last_processed": 27,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKType": {
+        "last_processed": 30,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaPrescriptionStatusCode": {
+        "last_processed": 30,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DP_MIKPatientVisitDiags": {
+        "last_processed": 32,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_SubscriptionType": {
+        "last_processed": 32,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RPMDevice": {
+        "last_processed": 32,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_fixStuckDocuments": {
+        "last_processed": 33,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Control": {
+        "last_processed": 35,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.flag_backup": {
+        "last_processed": 35,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BillingStatement": {
+        "last_processed": 37,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3COMMPARAMS": {
+        "last_processed": 38,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SPECIALTYTYPE": {
+        "last_processed": 38,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmEMRMedlistsMapping": {
+        "last_processed": 39,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceGroup": {
+        "last_processed": 40,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.JOBTITLE": {
+        "last_processed": 41,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Adjudication": {
+        "last_processed": 43,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_moreBadGuarantor": {
+        "last_processed": 44,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.INETSERVICES": {
+        "last_processed": 44,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AllocationSet": {
+        "last_processed": 46,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Med_Before_After_Fix": {
+        "last_processed": 47,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AADConfiguration": {
+        "last_processed": 48,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.flag_context": {
+        "last_processed": 49,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SYSTEMTEMP": {
+        "last_processed": 50,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCIMAGES": {
+        "last_processed": 51,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTPRESC": {
+        "last_processed": 51,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_TCRF_DELTA": {
+        "last_processed": 52,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_LimitRule": {
+        "last_processed": 53,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_LimitRule_Resource": {
+        "last_processed": 53,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_rcopiaNullSyncBug": {
+        "last_processed": 54,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FeeSchedule": {
+        "last_processed": 54,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.State": {
+        "last_processed": 59,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailHistory": {
+        "last_processed": 63,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FundingSourceMapping": {
+        "last_processed": 64,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RemitChecks": {
+        "last_processed": 64,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3QUALIFIER": {
+        "last_processed": 65,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BillingReceipt": {
+        "last_processed": 70,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ACS_DebugMessages": {
+        "last_processed": 71,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_DefaultDocumentTypes": {
+        "last_processed": 72,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EPCS_USER_DEA": {
+        "last_processed": 72,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EPCS_USER_DEA_ENROLLMENT": {
+        "last_processed": 72,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCTYPES": {
+        "last_processed": 76,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaQuantityUOM": {
+        "last_processed": 76,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKDTS": {
+        "last_processed": 78,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKRECUR": {
+        "last_processed": 79,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RDOC_Configuration": {
+        "last_processed": 79,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_TempDocumentType": {
+        "last_processed": 79,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKTYPE": {
+        "last_processed": 80,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKSTEP": {
+        "last_processed": 81,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_LimitRule_FClass": {
+        "last_processed": 81,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_StatementSettings": {
+        "last_processed": 81,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_Facilities": {
+        "last_processed": 83,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GPIToAllergen": {
+        "last_processed": 84,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERX_UNITOFMEASURE": {
+        "last_processed": 85,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Email_Settings": {
+        "last_processed": 86,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfileReport": {
+        "last_processed": 87,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog": {
+        "last_processed": 87,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligPracticeTypeCode": {
+        "last_processed": 88,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CQM_NQF_Measures": {
+        "last_processed": 91,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BatchStatement": {
+        "last_processed": 94,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTATTRS": {
+        "last_processed": 94,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.zzLAF_OcrevusPID": {
+        "last_processed": 95,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_ATypes": {
+        "last_processed": 96,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PATCHES": {
+        "last_processed": 97,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.OBSNORM": {
+        "last_processed": 97,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKTypeMap": {
+        "last_processed": 97,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USR_CredentialedStates": {
+        "last_processed": 98,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule": {
+        "last_processed": 99,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmBookScheduleMapping": {
+        "last_processed": 101,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmLocIdFacilityMapping": {
+        "last_processed": 101,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_OrphanDocumentRestored": {
+        "last_processed": 103,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ResetRequest": {
+        "last_processed": 103,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._marianPatientBadGuarantors": {
+        "last_processed": 106,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_APP_Batch_SV": {
+        "last_processed": 108,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_CpnsIndexOverlaps": {
+        "last_processed": 108,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cqr_PatchFixLog": {
+        "last_processed": 109,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDERCAT": {
+        "last_processed": 109,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteriaRules": {
+        "last_processed": 111,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CPTDEPT": {
+        "last_processed": 112,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_LockedDocuments": {
+        "last_processed": 114,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3DTS": {
+        "last_processed": 114,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FamilyHealthHistory": {
+        "last_processed": 117,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKSTATUS": {
+        "last_processed": 121,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDDX_BK_4768": {
+        "last_processed": 121,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FLOWSHEETLABELS": {
+        "last_processed": 122,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDERLETTERS": {
+        "last_processed": 123,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxShare": {
+        "last_processed": 124,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_RegControls": {
+        "last_processed": 124,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERX_DOSAGEFORM": {
+        "last_processed": 130,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedListsEditor": {
+        "last_processed": 131,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_MESSAGE_DELTA": {
+        "last_processed": 131,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusqhco_unmatched_12212021": {
+        "last_processed": 133,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ArrivedAppointmentsCreateDoc": {
+        "last_processed": 133,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusLanguageMap": {
+        "last_processed": 137,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERX_SS_DOSEFORMCODES": {
+        "last_processed": 138,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ilicuserinfo_backup": {
+        "last_processed": 138,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CVX": {
+        "last_processed": 141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SPR68501_MUP_Codes_Inactvtd": {
+        "last_processed": 141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsSourceOfPayments": {
+        "last_processed": 144,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Medlists_PreUpgrade": {
+        "last_processed": 150,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._potentialBadGuarantorsWithStatements": {
+        "last_processed": 150,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3ATTRTYPE": {
+        "last_processed": 152,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.APPENDDOCUMENT_4274BKP": {
+        "last_processed": 154,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtRecentWaitingListActivity": {
+        "last_processed": 156,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.WaitingList": {
+        "last_processed": 156,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.INQPHRAS": {
+        "last_processed": 164,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxShareDetail": {
+        "last_processed": 165,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRESCRIB_4274BKP": {
+        "last_processed": 166,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ImmunizationMasterList": {
+        "last_processed": 167,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3HIERARCHY": {
+        "last_processed": 172,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_APP_BatchExceptions_SV": {
+        "last_processed": 174,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AllocationSetRange": {
+        "last_processed": 176,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RPTPROP": {
+        "last_processed": 192,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SERVPROVORG": {
+        "last_processed": 194,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DP_MIKPatientVisit": {
+        "last_processed": 195,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._sipebadguarantors": {
+        "last_processed": 197,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ENCTYPE": {
+        "last_processed": 198,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmApptDefIdMapping": {
+        "last_processed": 202,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.WORKSTA": {
+        "last_processed": 206,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PaymentPlan": {
+        "last_processed": 208,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_Report": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.Report": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.CQM_Value_Set_Result_Codes": {
+        "last_processed": 214,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3ATTRDEFINE": {
+        "last_processed": 219,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKPatientVisit": {
+        "last_processed": 222,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Users": {
+        "last_processed": 222,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SpreadSheets": {
+        "last_processed": 222,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Imm_VaccineGroupName": {
+        "last_processed": 227,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportNodes": {
+        "last_processed": 232,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportNodes": {
+        "last_processed": 232,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.ResourceTypeAssignments": {
+        "last_processed": 240,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PMPGETPATIENTRESPONSE": {
+        "last_processed": 246,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_M01_DELTA": {
+        "last_processed": 248,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Country": {
+        "last_processed": 250,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_erxrefillrequestbak": {
+        "last_processed": 258,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.WaitingListEntry": {
+        "last_processed": 258,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.INQFLTRS": {
+        "last_processed": 266,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTMAPMS_DELTA": {
+        "last_processed": 269,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Industry": {
+        "last_processed": 271,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Map_LoincNum_HDIDs": {
+        "last_processed": 277,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_TYPE": {
+        "last_processed": 282,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_ClaimAdjustmentReasonCodes": {
+        "last_processed": 289,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MRUSelectionList": {
+        "last_processed": 310,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCVIEWS": {
+        "last_processed": 317,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RcopiaMapMedication4407": {
+        "last_processed": 336,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Medicate4407": {
+        "last_processed": 336,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ALLERGY_CASEBKP_20241017": {
+        "last_processed": 338,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarrierCompanyProcessing": {
+        "last_processed": 346,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Companies": {
+        "last_processed": 353,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PREFDEF": {
+        "last_processed": 355,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.table_pid_counts": {
+        "last_processed": 358,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKPatientVisitProcs": {
+        "last_processed": 379,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CONVRATIO": {
+        "last_processed": 388,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3TASKONCE": {
+        "last_processed": 393,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HANDDEPT": {
+        "last_processed": 393,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HCC": {
+        "last_processed": 401,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.hcc_bak": {
+        "last_processed": 401,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_TEMP": {
+        "last_processed": 403,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Application_Settings": {
+        "last_processed": 403,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_MedLists": {
+        "last_processed": 403,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AppSession": {
+        "last_processed": 408,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Log": {
+        "last_processed": 414,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_OrphanDetail": {
+        "last_processed": 440,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_RuleList": {
+        "last_processed": 446,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ERXRefillRequestError": {
+        "last_processed": 466,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch": {
+        "last_processed": 471,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TransactionColumnSetColumns": {
+        "last_processed": 477,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CUSTOMALLERGIES": {
+        "last_processed": 480,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Language": {
+        "last_processed": 485,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfileAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.MIKPatientVisitDiags": {
+        "last_processed": 506,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FORMUPDATE": {
+        "last_processed": 508,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PayorTable": {
+        "last_processed": 524,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DP_MIKPatientVisitProcs": {
+        "last_processed": 537,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersOrderCategory": {
+        "last_processed": 538,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Occupation": {
+        "last_processed": 539,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SecurityNodes": {
+        "last_processed": 544,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_SecurityNodes": {
+        "last_processed": 544,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_Providers": {
+        "last_processed": 545,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_languageBak_11_17_22": {
+        "last_processed": 552,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKEventLog": {
+        "last_processed": 572,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapUser": {
+        "last_processed": 592,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_LoincExtractCounts": {
+        "last_processed": 604,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_fixMikPatientVisitLock": {
+        "last_processed": 606,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.zipcodes_bak": {
+        "last_processed": 612,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3ATTRBIND": {
+        "last_processed": 613,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxSchedule": {
+        "last_processed": 633,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.customallergies_kbupd": {
+        "last_processed": 689,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusqhco_dupepatientvisits12212021": {
+        "last_processed": 698,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HIERGRPS": {
+        "last_processed": 710,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportParameter": {
+        "last_processed": 715,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportParameter": {
+        "last_processed": 715,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesChargeSets": {
+        "last_processed": 724,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.vaccinedetails": {
+        "last_processed": 725,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.QPICKS": {
+        "last_processed": 737,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ReminderSettings": {
+        "last_processed": 753,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientContactsFix": {
+        "last_processed": 786,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Procedures_Backup": {
+        "last_processed": 798,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Procedures": {
+        "last_processed": 827,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptType": {
+        "last_processed": 873,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USRFAVCOMPS": {
+        "last_processed": 897,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPVIDMapping": {
+        "last_processed": 926,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmUserChangesLog": {
+        "last_processed": 926,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDENCINFO": {
+        "last_processed": 1058,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.COVID_CONTENTLIST": {
+        "last_processed": 1059,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Other_Settings": {
+        "last_processed": 1063,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_D02C_DELTA": {
+        "last_processed": 1071,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ordencinfo_bak_20220221": {
+        "last_processed": 1080,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SAVINQ": {
+        "last_processed": 1090,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_TYPE_LOG": {
+        "last_processed": 1123,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportControl": {
+        "last_processed": 1141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportControl": {
+        "last_processed": 1141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._SipeMarianIns": {
+        "last_processed": 1143,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteria": {
+        "last_processed": 1158,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.search_results": {
+        "last_processed": 1191,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CarePlan": {
+        "last_processed": 1217,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitAttachment": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.UI_LAYOUT": {
+        "last_processed": 1224,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EmailLog": {
+        "last_processed": 1262,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptTypeLimits": {
+        "last_processed": 1263,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USERDICT": {
+        "last_processed": 1329,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDINFO_plus_delta": {
+        "last_processed": 1357,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_LimitRule_AType": {
+        "last_processed": 1368,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_UnavailableAppointments": {
+        "last_processed": 1410,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteriaApptTypes": {
+        "last_processed": 1434,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCTEMPLATE": {
+        "last_processed": 1568,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MIKIDMAP_bak_20220221": {
+        "last_processed": 1653,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Facilities": {
+        "last_processed": 1685,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FLAGTEMP": {
+        "last_processed": 1688,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._PatientIDUpdate": {
+        "last_processed": 1700,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_D02I_DELTA": {
+        "last_processed": 1705,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.UserSecurityGroup": {
+        "last_processed": 1734,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MM_CEM_EventQueue": {
+        "last_processed": 1779,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._inscarriers": {
+        "last_processed": 1786,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.USR": {
+        "last_processed": 1794,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MRUCUSTOMLISTS": {
+        "last_processed": 1795,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FinancialClassLimits": {
+        "last_processed": 1818,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.zzLAF_LabLinkLabs": {
+        "last_processed": 1858,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DDIDUPDATE": {
+        "last_processed": 1871,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MIKIdMap": {
+        "last_processed": 1920,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriersIds": {
+        "last_processed": 1944,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarrierCompany": {
+        "last_processed": 1946,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_ReAssign_Manual_History": {
+        "last_processed": 2008,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PASSHISTORY": {
+        "last_processed": 2013,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RVUC_Procedures": {
+        "last_processed": 2065,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Adj_InsuranceCarriers": {
+        "last_processed": 2140,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Predefined_Tags": {
+        "last_processed": 2180,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmSqlMessage": {
+        "last_processed": 2199,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteriaResources": {
+        "last_processed": 2202,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HCCSegmentCoefficient": {
+        "last_processed": 2381,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.hccsegmentcoefficient_bak": {
+        "last_processed": 2381,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportSecurity": {
+        "last_processed": 2418,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportSecurity": {
+        "last_processed": 2453,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxAddressBook": {
+        "last_processed": 2521,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ExcludedUsr": {
+        "last_processed": 2592,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmServProvIDMapping": {
+        "last_processed": 2595,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.NDCTODDID_DELTA": {
+        "last_processed": 2612,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapPharmacy": {
+        "last_processed": 2649,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SERVPROV": {
+        "last_processed": 2739,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MD_OLDREG": {
+        "last_processed": 2752,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SpreadSheetsEditor": {
+        "last_processed": 2779,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtSearchCriteria": {
+        "last_processed": 2887,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTTEXTMS_DELTA": {
+        "last_processed": 2905,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_APP_BatchItems_SV": {
+        "last_processed": 2920,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Schedule": {
+        "last_processed": 3064,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CUSTOMORDERS": {
+        "last_processed": 3133,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA2_temp_suven": {
+        "last_processed": 3188,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA2_temp_suven_decrypted_ndai": {
+        "last_processed": 3188,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_APP_BatchItemApplied_SV": {
+        "last_processed": 3267,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.County": {
+        "last_processed": 3294,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_TMerge_2_VisitWorkList": {
+        "last_processed": 3374,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_caseInsuranceMismatch": {
+        "last_processed": 3378,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._pp2": {
+        "last_processed": 3401,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmBusidMapping": {
+        "last_processed": 3617,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DOSING_PROFILES_DELTA": {
+        "last_processed": 3658,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_InsuranceGroups": {
+        "last_processed": 3801,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RDOC_RunHistory": {
+        "last_processed": 3817,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedLists_BAK": {
+        "last_processed": 3908,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MED_OVERRIDE": {
+        "last_processed": 4010,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_UserLoginHistory": {
+        "last_processed": 4287,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSearchCriteriaFacilities": {
+        "last_processed": 4343,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CQM_ValueSet": {
+        "last_processed": 4451,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDERCODES": {
+        "last_processed": 4495,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GPIUPDATE": {
+        "last_processed": 4597,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AllergyFix": {
+        "last_processed": 4600,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptTypeAssignments": {
+        "last_processed": 4790,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HIEROBJS": {
+        "last_processed": 4892,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RDOC_PatientsWithAppointments": {
+        "last_processed": 4915,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmInsurancePlanMapping": {
+        "last_processed": 4970,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PreUpgrade_ReportControlProperty": {
+        "last_processed": 5093,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ReportControlProperty": {
+        "last_processed": 5093,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_InsuranceCarriers": {
+        "last_processed": 5248,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SearchResults": {
+        "last_processed": 5284,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRINTERS": {
+        "last_processed": 5433,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LOGLOCKS": {
+        "last_processed": 5434,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SAVINQPHRAS": {
+        "last_processed": 5602,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_VisitOwnerHistory": {
+        "last_processed": 6191,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Pharmacy": {
+        "last_processed": 6303,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Map_OtherCode_HDIDs": {
+        "last_processed": 6361,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterInsuranceCarriers": {
+        "last_processed": 6512,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_DocumentFaxQueue": {
+        "last_processed": 6756,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_MFN_FaxRunRecipients": {
+        "last_processed": 6789,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesAuth": {
+        "last_processed": 6834,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesAuthDetail": {
+        "last_processed": 6841,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ActivityLog": {
+        "last_processed": 7451,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_ALogs": {
+        "last_processed": 7451,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._SipeMarianCheckingActiveIns": {
+        "last_processed": 7552,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ICDDEPT": {
+        "last_processed": 7635,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._PatientInsuranceUpdate": {
+        "last_processed": 7752,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InsuranceCarriers": {
+        "last_processed": 7811,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.contentlist_20221104bak": {
+        "last_processed": 8027,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Providers": {
+        "last_processed": 8289,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXT_CODE": {
+        "last_processed": 8299,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDER_ENTRY_MODIFIERS": {
+        "last_processed": 8475,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUUpgradeDBSchemaColumns": {
+        "last_processed": 8920,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_TCRF": {
+        "last_processed": 8930,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUCPSSchemaColumns": {
+        "last_processed": 8963,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUModelSchemaColumns": {
+        "last_processed": 9012,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUModelCoreSchemaColumns": {
+        "last_processed": 9012,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusPatientLanguageMap": {
+        "last_processed": 9439,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SpreadSheetColumns": {
+        "last_processed": 9440,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DFFeeSchedule": {
+        "last_processed": 9485,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._refprov1": {
+        "last_processed": 9559,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._refprov3": {
+        "last_processed": 9559,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCROUTE": {
+        "last_processed": 10607,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RVUC_History": {
+        "last_processed": 10645,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_MESSAGE": {
+        "last_processed": 10756,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._DateDimension": {
+        "last_processed": 10956,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesPatientVisitFiling": {
+        "last_processed": 11178,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FINDDLGPREFS": {
+        "last_processed": 11337,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Adj_ReasonCodes": {
+        "last_processed": 11643,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_guarantorLastFirstOrAddressNoMatch": {
+        "last_processed": 11703,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InteractionOverride": {
+        "last_processed": 11821,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._multiWithSameGuarantor": {
+        "last_processed": 11833,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._guarantorMulti": {
+        "last_processed": 11930,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_TMerge_2_IgnoreVisits": {
+        "last_processed": 12536,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ContentList": {
+        "last_processed": 12585,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_TMerge_2_MergeHistory": {
+        "last_processed": 12999,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LIC_HISTORY": {
+        "last_processed": 13562,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.KDCUPDATE": {
+        "last_processed": 13666,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.aa_AlertNotesUpdateValidation": {
+        "last_processed": 14247,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterDiagnosisKeyword": {
+        "last_processed": 14566,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MRUPatientList": {
+        "last_processed": 14760,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DFIds": {
+        "last_processed": 15047,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ContentList_bak": {
+        "last_processed": 15064,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PROBLEMLISTVIEWS": {
+        "last_processed": 15066,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitPaperClaim": {
+        "last_processed": 15797,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FORMSET": {
+        "last_processed": 15873,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ContentList_Backup": {
+        "last_processed": 16208,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDDEPT": {
+        "last_processed": 16633,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.guarantorsForStatements": {
+        "last_processed": 17128,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_dupRefProviderListNames": {
+        "last_processed": 17329,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_D01_DELTA": {
+        "last_processed": 17385,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_EDIEligibility_bak_20220221": {
+        "last_processed": 17640,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCOVERLAYINFO": {
+        "last_processed": 17877,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Load_CPT": {
+        "last_processed": 18673,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_UserDocuBatchQueue": {
+        "last_processed": 18681,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TerminologyMap": {
+        "last_processed": 18982,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_TempBal": {
+        "last_processed": 19243,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedInteractionOverride": {
+        "last_processed": 19303,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MedLists": {
+        "last_processed": 19396,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDDEPT_CPI_BACKUP": {
+        "last_processed": 19972,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterProcedures": {
+        "last_processed": 20329,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterProcedures_bak": {
+        "last_processed": 20329,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InventoryActivity": {
+        "last_processed": 20628,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._ApptFacilityConversion": {
+        "last_processed": 20678,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CQM_Map": {
+        "last_processed": 21050,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._typeMissing": {
+        "last_processed": 21728,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_BPP_PatientProfile_back": {
+        "last_processed": 22253,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DDID_RXNORM": {
+        "last_processed": 23100,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TEXTMACROS": {
+        "last_processed": 24183,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_orders_clincomments": {
+        "last_processed": 24999,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DRUGDIS_DELTA": {
+        "last_processed": 25262,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Script": {
+        "last_processed": 25423,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSet": {
+        "last_processed": 25668,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ACTIVEMQ_MSGS": {
+        "last_processed": 26047,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTMAPMS": {
+        "last_processed": 26804,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SecuritySettings": {
+        "last_processed": 27218,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaSynchronizationPrescriptionStatus": {
+        "last_processed": 27851,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_ActivityLog": {
+        "last_processed": 27857,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaPrescriptionStatus": {
+        "last_processed": 27892,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GE_TMP_PREF": {
+        "last_processed": 28797,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProceduresFeeSchedule": {
+        "last_processed": 30074,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_NextAppointmentHistory": {
+        "last_processed": 30143,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FORM": {
+        "last_processed": 32151,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FlagBackup": {
+        "last_processed": 33795,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._badgutmp": {
+        "last_processed": 34135,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._badgutmp2": {
+        "last_processed": 34179,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusQHCOBalFwd": {
+        "last_processed": 34472,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusQHCOBalFwd_backup20211221": {
+        "last_processed": 34472,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusQHCOBalFwd_remap": {
+        "last_processed": 34472,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusqhcoarbalancesource": {
+        "last_processed": 34473,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HCCDiagnosis": {
+        "last_processed": 36453,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.hccdiagnosis_bak": {
+        "last_processed": 36453,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPidMapping": {
+        "last_processed": 41265,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DIRECTIV": {
+        "last_processed": 41356,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._zipcodes": {
+        "last_processed": 42723,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ZipCodes": {
+        "last_processed": 42957,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DRUG_DOSING_DELTA": {
+        "last_processed": 43969,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProceduresSpecialty": {
+        "last_processed": 44123,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerSetupLog": {
+        "last_processed": 45909,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDDX": {
+        "last_processed": 46509,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientRegistry": {
+        "last_processed": 46587,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_AutoCheckIn_Appointments": {
+        "last_processed": 48358,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_doctorFacility12_28_22": {
+        "last_processed": 48504,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CusSupportPatientVisitProcsMonitor": {
+        "last_processed": 49283,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.StatementsCriteriaGuarantor": {
+        "last_processed": 49447,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDINFO": {
+        "last_processed": 50141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDINFOBAK": {
+        "last_processed": 50141,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_BPP_PatientProfile": {
+        "last_processed": 50275,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Batch": {
+        "last_processed": 52267,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LinkLogic_Export_Flowsheet": {
+        "last_processed": 52339,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DoctorFacility": {
+        "last_processed": 52751,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDINFO2178BAK": {
+        "last_processed": 53010,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PREF": {
+        "last_processed": 55419,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientContacts": {
+        "last_processed": 56084,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientVisit_bak_20220221": {
+        "last_processed": 56291,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientVisitInsurance_bak_20220221": {
+        "last_processed": 57838,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.tLoadReports_Results": {
+        "last_processed": 59375,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.mostusedproblem_spr68501_2018": {
+        "last_processed": 62962,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._notes": {
+        "last_processed": 65534,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Recall": {
+        "last_processed": 65623,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERXREQUEST": {
+        "last_processed": 68731,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CMSReimbursementMap": {
+        "last_processed": 69749,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.brandyTrace": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.ASSESS": {
+        "last_processed": 71255,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_DocumentQueue": {
+        "last_processed": 72934,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DOSING_PROFILES": {
+        "last_processed": 74719,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaSynchronizationMessage": {
+        "last_processed": 76317,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientInsuranceFix": {
+        "last_processed": 77464,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_History": {
+        "last_processed": 84061,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._facility": {
+        "last_processed": 85776,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_AutoCreateRule_Adj_History": {
+        "last_processed": 87515,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.OBSHEAD": {
+        "last_processed": 88087,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_Task": {
+        "last_processed": 92696,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HOUTTEXTMS": {
+        "last_processed": 92958,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.FLAG": {
+        "last_processed": 93787,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LOINC": {
+        "last_processed": 94382,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIClaimFile": {
+        "last_processed": 97628,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DiagCMSRembMap": {
+        "last_processed": 98063,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Load_PDM": {
+        "last_processed": 101271,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProblemDescriptionMap": {
+        "last_processed": 101272,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.erxresponse_20190103": {
+        "last_processed": 103683,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_PatientIDRequeued": {
+        "last_processed": 105282,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientEthnicity": {
+        "last_processed": 112818,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Settings": {
+        "last_processed": 116758,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ProblemCodeMap": {
+        "last_processed": 117365,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Diagnosis": {
+        "last_processed": 120270,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Diagnosis_Backup": {
+        "last_processed": 120270,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Diagnosis_bak": {
+        "last_processed": 120270,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cases": {
+        "last_processed": 120779,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ICDStructure": {
+        "last_processed": 120998,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPIDContactMapping": {
+        "last_processed": 124863,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERXRESPONSE": {
+        "last_processed": 128122,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_PatientContactsBak0531": {
+        "last_processed": 130797,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ScheduleTimes": {
+        "last_processed": 141928,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MostUsedProblem": {
+        "last_processed": 142196,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientcontacts_bak_20220518": {
+        "last_processed": 145793,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMessage": {
+        "last_processed": 147622,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BillingNote": {
+        "last_processed": 161861,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SessionIds": {
+        "last_processed": 169562,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.InconsistentDataFix": {
+        "last_processed": 177441,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.BKP_SPR4526ALLERGY": {
+        "last_processed": 183641,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._Notes3": {
+        "last_processed": 187097,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_FollowUp": {
+        "last_processed": 192395,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapPatient": {
+        "last_processed": 195332,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Patient_Race_latest_Record": {
+        "last_processed": 196397,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientRace": {
+        "last_processed": 196765,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA2_with_patient_id": {
+        "last_processed": 199421,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ArrivedAppointments": {
+        "last_processed": 205552,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapAllergy": {
+        "last_processed": 205565,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA2": {
+        "last_processed": 205985,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.NDCTODDID": {
+        "last_processed": 211135,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_CreatedInsurance": {
+        "last_processed": 217973,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_DocBat_DocuBatchFaxHistory": {
+        "last_processed": 219342,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ErrorLog": {
+        "last_processed": 240038,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SYMBOL": {
+        "last_processed": 245830,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TM_TaskHistory": {
+        "last_processed": 260009,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog5": {
+        "last_processed": 267408,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog8": {
+        "last_processed": 267473,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog2": {
+        "last_processed": 267720,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog7": {
+        "last_processed": 268044,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog10": {
+        "last_processed": 268091,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog4": {
+        "last_processed": 268348,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog9": {
+        "last_processed": 268374,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog3": {
+        "last_processed": 268464,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog1": {
+        "last_processed": 268619,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.workstaLog6": {
+        "last_processed": 268885,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitFilingConditionCodes": {
+        "last_processed": 269916,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.gtRecentScheduleActivity": {
+        "last_processed": 271397,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ALLERGY": {
+        "last_processed": 299700,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPIDGuarantorMapping": {
+        "last_processed": 299892,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Guarantor_SPR35062_Orig": {
+        "last_processed": 300734,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitResource": {
+        "last_processed": 325618,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPatientMatchingLog": {
+        "last_processed": 326484,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmPatientPidMapping": {
+        "last_processed": 326484,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDTOCOMPLETE": {
+        "last_processed": 342138,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfile_BAK": {
+        "last_processed": 343360,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Load_ICD": {
+        "last_processed": 343784,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterDiagnosis": {
+        "last_processed": 345313,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MasterDiagnosis_bak": {
+        "last_processed": 345313,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ScheduleResource": {
+        "last_processed": 346691,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ScheduleTimesAlloc": {
+        "last_processed": 348283,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CusSupportMikPatientVisitProcsMonitor": {
+        "last_processed": 377705,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIClaim": {
+        "last_processed": 379169,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapPrescription": {
+        "last_processed": 391006,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CusSupportPatientVisitMonitor": {
+        "last_processed": 400744,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisit": {
+        "last_processed": 402293,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitAgg": {
+        "last_processed": 402293,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitAggClosing": {
+        "last_processed": 402293,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitFiling": {
+        "last_processed": 402293,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_FlwUp_Notes": {
+        "last_processed": 407927,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CQM_ValueSetCode": {
+        "last_processed": 414236,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitInsurance": {
+        "last_processed": 435002,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PaymentMethod": {
+        "last_processed": 440430,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_ZUF": {
+        "last_processed": 466534,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_mergeDuplicateProvider": {
+        "last_processed": 488467,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._gu": {
+        "last_processed": 493188,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._gu_bak": {
+        "last_processed": 493188,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_doctorfacility_bak_20220403": {
+        "last_processed": 495391,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_guarantor0615": {
+        "last_processed": 497551,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_guarantorBak_0630": {
+        "last_processed": 499340,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatientProfileAgg": {
+        "last_processed": 506386,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._pp": {
+        "last_processed": 506466,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._mytemp": {
+        "last_processed": 512220,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientprofile0615": {
+        "last_processed": 518817,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientProfileBak_0630": {
+        "last_processed": 519932,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.geMergeProviderIssue_backup": {
+        "last_processed": 524484,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_EventQueue": {
+        "last_processed": 527788,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._1SipeBalances11092022": {
+        "last_processed": 528985,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AA_PatientProfileAlertNotesBAK": {
+        "last_processed": 531761,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Fax": {
+        "last_processed": 550389,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_SST_EligibilityProcessorCrosswalk": {
+        "last_processed": 558038,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.aa_PPAlertNotes": {
+        "last_processed": 578190,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.aa_PPAlertNotes2": {
+        "last_processed": 578190,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfile_AlertNotes_20240128": {
+        "last_processed": 578250,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfile_AlertNotes_20240129": {
+        "last_processed": 578428,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIEligibility": {
+        "last_processed": 582285,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIEligibilityFile": {
+        "last_processed": 582285,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientProfileAgg": {
+        "last_processed": 583135,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Guarantor": {
+        "last_processed": 590212,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_phone_validation": {
+        "last_processed": 620929,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTID": {
+        "last_processed": 662787,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.GE_DBSchema_Audit": {
+        "last_processed": 663510,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CusSupportMikPatientVisitMonitor": {
+        "last_processed": 664599,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA_temp_suven": {
+        "last_processed": 671624,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitProcs": {
+        "last_processed": 687550,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitProcsAgg": {
+        "last_processed": 687550,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ePRESCRIB": {
+        "last_processed": 702566,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cusCqrDataFix_OrphanDetailSdid": {
+        "last_processed": 708020,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapProblem": {
+        "last_processed": 710032,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.L3EVENTLOG": {
+        "last_processed": 715571,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_PROFILE": {
+        "last_processed": 719182,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitDiags": {
+        "last_processed": 767781,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientCorrespondence_20250224": {
+        "last_processed": 811399,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_FaxDoc": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.Cus_EZP_FaxDocLink": {
+        "last_processed": 844200,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientCorrespondence": {
+        "last_processed": 849047,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.VisitTransactions": {
+        "last_processed": 863823,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaSynchronization": {
+        "last_processed": 924349,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientInsurance_bak_20220406": {
+        "last_processed": 991759,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MS_DRUG_DOSING": {
+        "last_processed": 1030920,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_casesInsurance_bak_20220406": {
+        "last_processed": 1044218,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientInsurance_bak_20220221": {
+        "last_processed": 1062387,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ARAggregates": {
+        "last_processed": 1082161,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_casesinsurance02_10_22": {
+        "last_processed": 1105095,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_casesInsurance_bak_20220221": {
+        "last_processed": 1110206,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientInsurance": {
+        "last_processed": 534999,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.DmRIDMapping": {
+        "last_processed": 1132386,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.stateControlledSubstances": {
+        "last_processed": 1139177,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._BadGuarantorCarrie": {
+        "last_processed": 1267657,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.LabOrderPanel": {
+        "last_processed": 1327613,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ApptSlot": {
+        "last_processed": 1437720,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_PROFILE_LOG": {
+        "last_processed": 1438365,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MUActivityLog": {
+        "last_processed": 1444544,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientrelationship_bak1_20220403": {
+        "last_processed": 1463381,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_patientrelationship_bak_20220518": {
+        "last_processed": 1474189,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIReportFile": {
+        "last_processed": -1,
+        "table_created": false,
+        "table_completed": false
+    },
+    "dbo.CasesInsurance": {
+        "last_processed": 1493680,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_PatientRelationshipBak0531": {
+        "last_processed": 1547649,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.geMergeProviderIssue": {
+        "last_processed": 1614505,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientRelationship": {
+        "last_processed": 1688037,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDICATE_AUDIT": {
+        "last_processed": 1751617,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.guarantor_bak": {
+        "last_processed": 1752648,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PROBLEM": {
+        "last_processed": 1853565,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaMapMedication": {
+        "last_processed": 2067516,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDICATE_CPI_BACKUP": {
+        "last_processed": 2080794,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DmApptIdMapping": {
+        "last_processed": 2166206,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Appointments_bak": {
+        "last_processed": 2172875,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.HistoricalInfo": {
+        "last_processed": 2468395,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_PatientVisits": {
+        "last_processed": 2600275,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EDIReport": {
+        "last_processed": 2669770,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Transactions": {
+        "last_processed": 2729566,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDICATIONHISTORY": {
+        "last_processed": 2762969,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CEM_MessageLog": {
+        "last_processed": 3085117,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_PatientProcs": {
+        "last_processed": 3487677,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.RcopiaSynchronizationClinical": {
+        "last_processed": 3577472,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo._appts": {
+        "last_processed": 3641457,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AppointmentsAlloc": {
+        "last_processed": 3688149,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.TransactionDistributions": {
+        "last_processed": 3859524,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.MEDICATE": {
+        "last_processed": 3967681,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Appointments": {
+        "last_processed": 4252209,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ML_MERGEAUDIT": {
+        "last_processed": 5164735,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_RDOC_DocumentsCreated": {
+        "last_processed": 5531486,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.extreferences_bak_062621": {
+        "last_processed": 6079709,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.extreferences_bak_062721": {
+        "last_processed": 6079739,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.extreferences_bak_06282021": {
+        "last_processed": 6079775,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DiagnosisSpecialty": {
+        "last_processed": 6337948,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_eStmt_StatementBatch_PatientAging": {
+        "last_processed": 6573871,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.EXTREFERENCES": {
+        "last_processed": 7453505,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDDX": {
+        "last_processed": 9155275,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.REL_OBS_EXT_CODE": {
+        "last_processed": 10227756,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientInfoLog": {
+        "last_processed": 11736863,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CasesAuthDoctor": {
+        "last_processed": 12786382,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ACCESSAUDIT": {
+        "last_processed": 13199787,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.deletehistory": {
+        "last_processed": 15391717,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_ProTrk_OrderHistory": {
+        "last_processed": 39584699,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT_DETAIL": {
+        "last_processed": 382163999,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo._Ref Phys Zips": {
+        "last_processed": 9559,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUModelCPSDeveloperIndexes": {
+        "last_processed": 4,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_AppointmentRequests": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CHRTRULE": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_Data": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Statement_PaperData": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_StatementQueue": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TransDetail": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_TransDetail2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_NewRegistrations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_PatCheckins": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_BillPayRequests": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_EligInsCarriers": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ERXChangeRequest": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Final Ref Phy No Duplicates No Phi": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Final Ref Phy No Duplicates No Phi 2": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ServerSetupValidations": {
+        "last_processed": -1,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUUpgradeDBIndexes": {
+        "last_processed": 1411,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUModelCPSIndexes": {
+        "last_processed": 1384,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUCPSIndexes": {
+        "last_processed": 1381,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DESKDOCVIEWS": {
+        "last_processed": 148,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUIndexesToDropInUpgradeDB": {
+        "last_processed": 73,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.SUIndexesToCreateInUpgradeDB": {
+        "last_processed": 38,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.Cus_EZP_Online_Forms_Groups": {
+        "last_processed": 0,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_orders_bak_20220221": {
+        "last_processed": 5620449,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PRESCRIB": {
+        "last_processed": 2851633,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_completeOrders": {
+        "last_processed": 136401,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.PatientVisitAmbulance": {
+        "last_processed": 87019,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.AUDIT_EVENT": {
+        "last_processed": 465639999,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.DOCCONTB": {
+        "last_processed": 265200123,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCDATA": {
+        "last_processed": 58944999,
+        "table_created": true,
+        "table_completed": false
+    },
+    "dbo.OBS": {
+        "last_processed": 27634472,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.DOCUMENT": {
+        "last_processed": 20598915,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ActivityLog": {
+        "last_processed": 17021873,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.cus_Scheduler_1_Search_ZeroCountDays": {
+        "last_processed": 16620309,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.ORDERS": {
+        "last_processed": 7460912,
+        "table_created": true,
+        "table_completed": true
+    },
+    "dbo.CONFACCESS": {
+        "last_processed": 28,
+        "table_created": true,
+        "table_completed": true
+    }
+}

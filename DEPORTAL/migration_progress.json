@@ -1,0 +1,2302 @@
+{
+    "AADConfiguration": {
+        "status": "Completed",
+        "rows_migrated": 49,
+        "last_updated": "2026-01-15 08:05:22"
+    },
+    "ACTIVEMQ_LOCK": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 08:05:22"
+    },
+    "ACTIVEMQ_MSGS": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 08:05:25"
+    },
+    "ActivityLog": {
+        "status": "Skipped/Already Exists",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 08:05:25"
+    },
+    "ALLERGY": {
+        "status": "Completed",
+        "rows_migrated": 299701,
+        "last_updated": "2026-01-15 08:07:09"
+    },
+    "AllergyFix": {
+        "status": "Completed",
+        "rows_migrated": 4601,
+        "last_updated": "2026-01-15 08:07:10"
+    },
+    "AllocationSet": {
+        "status": "Completed",
+        "rows_migrated": 47,
+        "last_updated": "2026-01-15 08:07:10"
+    },
+    "AllocationSetRange": {
+        "status": "Completed",
+        "rows_migrated": 177,
+        "last_updated": "2026-01-15 08:07:10"
+    },
+    "Appointments": {
+        "status": "Completed",
+        "rows_migrated": 303180,
+        "last_updated": "2026-01-15 08:09:01"
+    },
+    "AppointmentsAlloc": {
+        "status": "Completed",
+        "rows_migrated": 3688150,
+        "last_updated": "2026-01-15 08:16:03"
+    },
+    "AppSession": {
+        "status": "Completed",
+        "rows_migrated": 409,
+        "last_updated": "2026-01-15 08:16:03"
+    },
+    "ApptSearchCriteria": {
+        "status": "Completed",
+        "rows_migrated": 1159,
+        "last_updated": "2026-01-15 08:16:03"
+    },
+    "ApptSearchCriteriaApptTypes": {
+        "status": "Completed",
+        "rows_migrated": 1435,
+        "last_updated": "2026-01-15 08:16:04"
+    },
+    "ApptSearchCriteriaFacilities": {
+        "status": "Completed",
+        "rows_migrated": 4344,
+        "last_updated": "2026-01-15 08:16:04"
+    },
+    "ApptSearchCriteriaResources": {
+        "status": "Completed",
+        "rows_migrated": 2203,
+        "last_updated": "2026-01-15 08:16:04"
+    },
+    "ApptSet": {
+        "status": "Completed",
+        "rows_migrated": 25669,
+        "last_updated": "2026-01-15 08:16:06"
+    },
+    "ApptSlot": {
+        "status": "Completed",
+        "rows_migrated": 1437721,
+        "last_updated": "2026-01-15 08:19:10"
+    },
+    "ApptType": {
+        "status": "Completed",
+        "rows_migrated": 874,
+        "last_updated": "2026-01-15 08:19:10"
+    },
+    "ApptTypeAssignments": {
+        "status": "Completed",
+        "rows_migrated": 4791,
+        "last_updated": "2026-01-15 08:19:11"
+    },
+    "ARAggregates": {
+        "status": "Completed",
+        "rows_migrated": 1082162,
+        "last_updated": "2026-01-15 08:21:23"
+    },
+    "ASSESS": {
+        "status": "Completed",
+        "rows_migrated": 71256,
+        "last_updated": "2026-01-15 08:21:33"
+    },
+    "AUCSTATUS": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-15 08:21:33"
+    },
+    "AUDIT_EVENT_TYPE": {
+        "status": "Completed",
+        "rows_migrated": 283,
+        "last_updated": "2026-01-15 08:21:33"
+    },
+    "AUDIT_EVENT_TYPE_LOG": {
+        "status": "Completed",
+        "rows_migrated": 1124,
+        "last_updated": "2026-01-15 08:21:33"
+    },
+    "AUDIT_PROFILE": {
+        "status": "Completed",
+        "rows_migrated": 719183,
+        "last_updated": "2026-01-15 08:22:41"
+    },
+    "Batch": {
+        "status": "Completed",
+        "rows_migrated": 52268,
+        "last_updated": "2026-01-15 08:22:45"
+    },
+    "BatchStatement": {
+        "status": "Completed",
+        "rows_migrated": 95,
+        "last_updated": "2026-01-15 08:22:45"
+    },
+    "BillingNote": {
+        "status": "Completed",
+        "rows_migrated": 161862,
+        "last_updated": "2026-01-15 08:23:01"
+    },
+    "BillingStatement": {
+        "status": "Completed",
+        "rows_migrated": 38,
+        "last_updated": "2026-01-15 08:23:01"
+    },
+    "BKP_SPR4526ALLERGY": {
+        "status": "Completed",
+        "rows_migrated": 183642,
+        "last_updated": "2026-01-15 08:23:16"
+    },
+    "CareTransInMUFix": {
+        "status": "Completed",
+        "rows_migrated": 9,
+        "last_updated": "2026-01-15 08:23:16"
+    },
+    "Cases": {
+        "status": "Completed",
+        "rows_migrated": 120780,
+        "last_updated": "2026-01-15 08:23:51"
+    },
+    "CasesAttachment": {
+        "status": "Completed",
+        "rows_migrated": 234,
+        "last_updated": "2026-01-15 08:23:51"
+    },
+    "CasesAuth": {
+        "status": "Completed",
+        "rows_migrated": 6835,
+        "last_updated": "2026-01-15 08:23:52"
+    },
+    "CasesAuthDetail": {
+        "status": "Completed",
+        "rows_migrated": 6842,
+        "last_updated": "2026-01-15 08:23:53"
+    },
+    "CasesAuthDoctor": {
+        "status": "Completed",
+        "rows_migrated": 12786383,
+        "last_updated": "2026-01-15 08:41:13"
+    },
+    "CasesChargeSets": {
+        "status": "Completed",
+        "rows_migrated": 725,
+        "last_updated": "2026-01-15 08:41:14"
+    },
+    "CasesInsurance": {
+        "status": "Completed",
+        "rows_migrated": 1493681,
+        "last_updated": "2026-01-15 08:45:13"
+    },
+    "CasesPatientVisitFiling": {
+        "status": "Completed",
+        "rows_migrated": 11179,
+        "last_updated": "2026-01-15 08:45:27"
+    },
+    "CDS_Parameters": {
+        "status": "Skipped/Already Exists",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 08:45:27"
+    },
+    "CEM_EventQueue": {
+        "status": "Completed",
+        "rows_migrated": 527789,
+        "last_updated": "2026-01-15 08:46:04"
+    },
+    "CEM_MessageLog": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 08:46:15"
+    },
+    "CEM_Subscription": {
+        "status": "Completed",
+        "rows_migrated": 22,
+        "last_updated": "2026-01-15 08:46:15"
+    },
+    "CEM_SubscriptionRunDate": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-15 08:46:15"
+    },
+    "CEM_SubscriptionType": {
+        "status": "Completed",
+        "rows_migrated": 33,
+        "last_updated": "2026-01-15 08:46:16"
+    },
+    "CEM_TriggerStatus": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-15 08:46:16"
+    },
+    "ChargeSets": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-15 08:46:16"
+    },
+    "Clearinghouse": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-15 08:46:16"
+    },
+    "CMSReimbursementMap": {
+        "status": "Completed",
+        "rows_migrated": 69750,
+        "last_updated": "2026-01-15 08:46:25"
+    },
+    "ComponentSensitiveReport": {
+        "status": "Completed",
+        "rows_migrated": 15,
+        "last_updated": "2026-01-15 08:46:25"
+    },
+    "CONFTYPES": {
+        "status": "Completed",
+        "rows_migrated": 9,
+        "last_updated": "2026-01-15 08:46:25"
+    },
+    "ContentList": {
+        "status": "Completed",
+        "rows_migrated": 12586,
+        "last_updated": "2026-01-15 08:46:27"
+    },
+    "ContentList_bak": {
+        "status": "Completed",
+        "rows_migrated": 15065,
+        "last_updated": "2026-01-15 08:46:29"
+    },
+    "Control": {
+        "status": "Completed",
+        "rows_migrated": 36,
+        "last_updated": "2026-01-15 08:46:29"
+    },
+    "CONVRATIO": {
+        "status": "Completed",
+        "rows_migrated": 389,
+        "last_updated": "2026-01-15 08:46:29"
+    },
+    "Country": {
+        "status": "Completed",
+        "rows_migrated": 251,
+        "last_updated": "2026-01-15 08:46:29"
+    },
+    "County": {
+        "status": "Completed",
+        "rows_migrated": 3295,
+        "last_updated": "2026-01-15 08:46:30"
+    },
+    "COVID_CONTENTLIST": {
+        "status": "Completed",
+        "rows_migrated": 1060,
+        "last_updated": "2026-01-15 08:46:30"
+    },
+    "CPTDEPT": {
+        "status": "Completed",
+        "rows_migrated": 113,
+        "last_updated": "2026-01-15 08:46:30"
+    },
+    "CQM_Map": {
+        "status": "Completed",
+        "rows_migrated": 21051,
+        "last_updated": "2026-01-15 08:46:33"
+    },
+    "CQM_NQF_Measures": {
+        "status": "Completed",
+        "rows_migrated": 92,
+        "last_updated": "2026-01-15 08:46:33"
+    },
+    "CQM_Value_Set_Result_Codes": {
+        "status": "Completed",
+        "rows_migrated": 215,
+        "last_updated": "2026-01-15 08:46:33"
+    },
+    "CQM_ValueSet": {
+        "status": "Completed",
+        "rows_migrated": 4452,
+        "last_updated": "2026-01-15 08:46:34"
+    },
+    "CQM_ValueSetCode": {
+        "status": "Completed",
+        "rows_migrated": 414237,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "CriticalErrorSymbol": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_activeLockReport": {
+        "status": "Completed",
+        "rows_migrated": 9,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_CpnsIndexOverlaps": {
+        "status": "Completed",
+        "rows_migrated": 109,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_fixMikPatientVisitLock": {
+        "status": "Completed",
+        "rows_migrated": 96,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_fixStuckDocuments": {
+        "status": "Completed",
+        "rows_migrated": 28,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_LockedDocuments": {
+        "status": "Completed",
+        "rows_migrated": 115,
+        "last_updated": "2026-01-15 08:47:07"
+    },
+    "cus_Script": {
+        "status": "Completed",
+        "rows_migrated": 25424,
+        "last_updated": "2026-01-15 08:47:09"
+    },
+    "CUSTOMALLERGIES": {
+        "status": "Completed",
+        "rows_migrated": 481,
+        "last_updated": "2026-01-15 08:47:09"
+    },
+    "customallergies_kbupd": {
+        "status": "Completed",
+        "rows_migrated": 690,
+        "last_updated": "2026-01-15 08:47:09"
+    },
+    "CUSTOMORDERS": {
+        "status": "Completed",
+        "rows_migrated": 3134,
+        "last_updated": "2026-01-15 08:47:10"
+    },
+    "CVX": {
+        "status": "Completed",
+        "rows_migrated": 142,
+        "last_updated": "2026-01-15 08:47:10"
+    },
+    "DDID_RXNORM": {
+        "status": "Completed",
+        "rows_migrated": 23101,
+        "last_updated": "2026-01-15 08:47:11"
+    },
+    "DDIDUPDATE": {
+        "status": "Completed",
+        "rows_migrated": 1872,
+        "last_updated": "2026-01-15 08:47:11"
+    },
+    "deletehistory": {
+        "status": "Completed",
+        "rows_migrated": 15183000,
+        "last_updated": "2026-01-15 09:03:53"
+    },
+    "deletehistory_bak": {
+        "status": "Completed",
+        "rows_migrated": 1125000,
+        "last_updated": "2026-01-15 09:05:11"
+    },
+    "deletehistory_bak_final": {
+        "status": "Completed",
+        "rows_migrated": 15183000,
+        "last_updated": "2026-01-15 09:21:05"
+    },
+    "DESKDOCVIEWS": {
+        "status": "Completed",
+        "rows_migrated": 149,
+        "last_updated": "2026-01-15 09:21:05"
+    },
+    "DFFeeSchedule": {
+        "status": "Completed",
+        "rows_migrated": 9486,
+        "last_updated": "2026-01-15 09:21:07"
+    },
+    "DFIds": {
+        "status": "Completed",
+        "rows_migrated": 15048,
+        "last_updated": "2026-01-15 09:21:13"
+    },
+    "DiagCMSRembMap": {
+        "status": "Completed",
+        "rows_migrated": 98064,
+        "last_updated": "2026-01-15 09:21:24"
+    },
+    "Diagnosis": {
+        "status": "Completed",
+        "rows_migrated": 120271,
+        "last_updated": "2026-01-15 09:21:42"
+    },
+    "Diagnosis_bak": {
+        "status": "Completed",
+        "rows_migrated": 120271,
+        "last_updated": "2026-01-15 09:21:59"
+    },
+    "DiagnosisSpecialty": {
+        "status": "Completed",
+        "rows_migrated": 6337949,
+        "last_updated": "2026-01-15 09:30:34"
+    },
+    "DIRECTIV": {
+        "status": "Completed",
+        "rows_migrated": 41357,
+        "last_updated": "2026-01-15 09:30:44"
+    },
+    "DOCCONTB": {
+        "status": "Completed",
+        "rows_migrated": 191139000,
+        "last_updated": "2026-01-15 17:18:44"
+    },
+    "DOCCONTB_bak": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 17:18:44"
+    },
+    "DOCCONTB_bak_final": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 17:56:59"
+    },
+    "DOCDATA": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 17:58:38"
+    },
+    "DOCDATA2": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:03:27"
+    },
+    "DOCDATA2_temp_suven": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:03:41"
+    },
+    "DOCDATA2_with_patient_id": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:08:25"
+    },
+    "DOCDATA2_with_patient_id_bak": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:12:06"
+    },
+    "docdata_ndtemp_with_pid": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:13:27"
+    },
+    "docdata_suven_nd": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:13:34"
+    },
+    "DOCDATA_temp_suven": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:13:45"
+    },
+    "DOCDATA_with_patient_id": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:13:45"
+    },
+    "DOCFORMAT": {
+        "status": "Completed",
+        "rows_migrated": 7,
+        "last_updated": "2026-01-15 18:13:45"
+    },
+    "DOCIMAGES": {
+        "status": "Completed",
+        "rows_migrated": 52,
+        "last_updated": "2026-01-15 18:13:46"
+    },
+    "DOCROUTE": {
+        "status": "Completed",
+        "rows_migrated": 10608,
+        "last_updated": "2026-01-15 18:13:47"
+    },
+    "DOCTEMPLATE": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:13:47"
+    },
+    "DoctorFacility": {
+        "status": "Completed",
+        "rows_migrated": 52752,
+        "last_updated": "2026-01-15 18:14:20"
+    },
+    "DOCTYPES": {
+        "status": "Completed",
+        "rows_migrated": 77,
+        "last_updated": "2026-01-15 18:14:20"
+    },
+    "DOCUMENT": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 18:22:50"
+    },
+    "DOCUMENT_nd_bak": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 20:09:53"
+    },
+    "DOCUMENT_nd_bakcup": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 21:56:48"
+    },
+    "DOCVIEWS": {
+        "status": "Completed",
+        "rows_migrated": 318,
+        "last_updated": "2026-01-15 21:56:48"
+    },
+    "DOCVIEWS_TRACKER": {
+        "status": "Completed",
+        "rows_migrated": 3,
+        "last_updated": "2026-01-15 21:56:48"
+    },
+    "EDIClaim": {
+        "status": "Completed",
+        "rows_migrated": 379163,
+        "last_updated": "2026-01-15 21:57:41"
+    },
+    "EDIClaimFile": {
+        "status": "Completed",
+        "rows_migrated": 97629,
+        "last_updated": "2026-01-15 21:58:00"
+    },
+    "EDIEligibility": {
+        "status": "Completed",
+        "rows_migrated": 582239,
+        "last_updated": "2026-01-15 21:59:16"
+    },
+    "EDIEligibilityFile": {
+        "status": "Completed",
+        "rows_migrated": 582286,
+        "last_updated": "2026-01-15 22:01:46"
+    },
+    "EDIReport": {
+        "status": "Completed",
+        "rows_migrated": 2685771,
+        "last_updated": "2026-01-15 22:06:23"
+    },
+    "EDIReportFile": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 22:06:28"
+    },
+    "Employer": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 22:06:28"
+    },
+    "emridcontrol": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 22:06:28"
+    },
+    "ENCTYPE": {
+        "status": "Completed",
+        "rows_migrated": 199,
+        "last_updated": "2026-01-15 22:06:28"
+    },
+    "EPCS_USER_DEA": {
+        "status": "Completed",
+        "rows_migrated": 73,
+        "last_updated": "2026-01-15 22:06:29"
+    },
+    "EPCS_USER_DEA_ENROLLMENT": {
+        "status": "Completed",
+        "rows_migrated": 73,
+        "last_updated": "2026-01-15 22:06:29"
+    },
+    "ePRESCRIB": {
+        "status": "Completed",
+        "rows_migrated": 702567,
+        "last_updated": "2026-01-15 22:09:06"
+    },
+    "ErrorLog": {
+        "status": "Completed",
+        "rows_migrated": 240039,
+        "last_updated": "2026-01-15 22:10:04"
+    },
+    "ERX_DOSAGEFORM": {
+        "status": "Completed",
+        "rows_migrated": 131,
+        "last_updated": "2026-01-15 22:10:04"
+    },
+    "ERX_SS_DOSEFORMCODES": {
+        "status": "Completed",
+        "rows_migrated": 139,
+        "last_updated": "2026-01-15 22:10:04"
+    },
+    "ERX_UNITOFMEASURE": {
+        "status": "Completed",
+        "rows_migrated": 86,
+        "last_updated": "2026-01-15 22:10:04"
+    },
+    "ERXREQUEST": {
+        "status": "Completed",
+        "rows_migrated": 68732,
+        "last_updated": "2026-01-15 22:10:12"
+    },
+    "ExcludedUsr": {
+        "status": "Completed",
+        "rows_migrated": 2593,
+        "last_updated": "2026-01-15 22:10:13"
+    },
+    "ExportDocumentSettings": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-15 22:10:13"
+    },
+    "EXT_CODE": {
+        "status": "Completed",
+        "rows_migrated": 8300,
+        "last_updated": "2026-01-15 22:10:14"
+    },
+    "EXTID": {
+        "status": "Completed",
+        "rows_migrated": 662788,
+        "last_updated": "2026-01-15 22:10:51"
+    },
+    "EXTIDSPACE": {
+        "status": "Completed",
+        "rows_migrated": 7,
+        "last_updated": "2026-01-15 22:10:51"
+    },
+    "EXTREFERENCES": {
+        "status": "Completed",
+        "rows_migrated": 7453506,
+        "last_updated": "2026-01-15 22:24:03"
+    },
+    "FamilyHealthHistory": {
+        "status": "Completed",
+        "rows_migrated": 118,
+        "last_updated": "2026-01-15 22:24:03"
+    },
+    "FeeSchedule": {
+        "status": "Completed",
+        "rows_migrated": 55,
+        "last_updated": "2026-01-15 22:24:03"
+    },
+    "FHxRelationship": {
+        "status": "Completed",
+        "rows_migrated": 22,
+        "last_updated": "2026-01-15 22:24:03"
+    },
+    "FINDDLGPREFS": {
+        "status": "Completed",
+        "rows_migrated": 11338,
+        "last_updated": "2026-01-15 22:24:04"
+    },
+    "FLAG": {
+        "status": "Completed",
+        "rows_migrated": 77788,
+        "last_updated": "2026-01-15 22:24:20"
+    },
+    "FlagBackup": {
+        "status": "Completed",
+        "rows_migrated": 33796,
+        "last_updated": "2026-01-15 22:24:29"
+    },
+    "FLAGTEMP": {
+        "status": "Completed",
+        "rows_migrated": 1689,
+        "last_updated": "2026-01-15 22:24:29"
+    },
+    "FLOWSHEETLABELS": {
+        "status": "Completed",
+        "rows_migrated": 123,
+        "last_updated": "2026-01-15 22:24:29"
+    },
+    "FORM": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 22:24:42"
+    },
+    "FORMSET": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 22:24:56"
+    },
+    "FORMUPDATE": {
+        "status": "Completed",
+        "rows_migrated": 509,
+        "last_updated": "2026-01-15 22:24:56"
+    },
+    "GE_DBSchema_Audit": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 22:25:06"
+    },
+    "GLOBALREFRESH": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 22:25:06"
+    },
+    "GPICLUPD": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-15 22:25:07"
+    },
+    "GPIToAllergen": {
+        "status": "Completed",
+        "rows_migrated": 85,
+        "last_updated": "2026-01-15 22:25:07"
+    },
+    "GPIUPDATE": {
+        "status": "Completed",
+        "rows_migrated": 4598,
+        "last_updated": "2026-01-15 22:25:07"
+    },
+    "gtRecentScheduleActivity": {
+        "status": "Completed",
+        "rows_migrated": 271398,
+        "last_updated": "2026-01-15 22:25:34"
+    },
+    "gtRecentWaitingListActivity": {
+        "status": "Completed",
+        "rows_migrated": 157,
+        "last_updated": "2026-01-15 22:25:34"
+    },
+    "Guarantor": {
+        "status": "Completed",
+        "rows_migrated": 569695,
+        "last_updated": "2026-01-15 22:29:31"
+    },
+    "Guarantor_SPR35062_Orig": {
+        "status": "Completed",
+        "rows_migrated": 300735,
+        "last_updated": "2026-01-15 22:29:42"
+    },
+    "HANDDEPT": {
+        "status": "Completed",
+        "rows_migrated": 394,
+        "last_updated": "2026-01-15 22:29:43"
+    },
+    "HIERGRPS": {
+        "status": "Completed",
+        "rows_migrated": 711,
+        "last_updated": "2026-01-15 22:29:43"
+    },
+    "HIEROBJS": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 22:29:46"
+    },
+    "HistoricalInfo": {
+        "status": "Completed",
+        "rows_migrated": 620000,
+        "last_updated": "2026-01-15 22:32:28"
+    },
+    "HISTVIEWTEMPLATE": {
+        "status": "Completed",
+        "rows_migrated": 16,
+        "last_updated": "2026-01-15 22:32:28"
+    },
+    "HOUTMAPMS": {
+        "status": "Completed",
+        "rows_migrated": 26805,
+        "last_updated": "2026-01-15 22:32:31"
+    },
+    "HOUTMAPMS_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 270,
+        "last_updated": "2026-01-15 22:32:31"
+    },
+    "HOUTTEXTMS": {
+        "status": "Completed",
+        "rows_migrated": 92959,
+        "last_updated": "2026-01-15 22:32:45"
+    },
+    "HOUTTEXTMS_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 2906,
+        "last_updated": "2026-01-15 22:32:47"
+    },
+    "ICDDEPT": {
+        "status": "Completed",
+        "rows_migrated": 7636,
+        "last_updated": "2026-01-15 22:32:48"
+    },
+    "ICDStructure": {
+        "status": "Completed",
+        "rows_migrated": 120999,
+        "last_updated": "2026-01-15 22:33:02"
+    },
+    "iLicInfo": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-15 22:33:02"
+    },
+    "iLicProdInfo": {
+        "status": "Completed",
+        "rows_migrated": 19,
+        "last_updated": "2026-01-15 22:33:02"
+    },
+    "Imm_VaccineGroupName": {
+        "status": "Completed",
+        "rows_migrated": 228,
+        "last_updated": "2026-01-15 22:33:02"
+    },
+    "InconsistentDataFix": {
+        "status": "Completed",
+        "rows_migrated": 177442,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "Industry": {
+        "status": "Completed",
+        "rows_migrated": 272,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "INETSERVICES": {
+        "status": "Completed",
+        "rows_migrated": 45,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "INQFLTRS": {
+        "status": "Completed",
+        "rows_migrated": 267,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "INQPHRAS": {
+        "status": "Completed",
+        "rows_migrated": 165,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "INQTYPE": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-15 22:33:24"
+    },
+    "InsSourceOfPayments": {
+        "status": "Completed",
+        "rows_migrated": 145,
+        "last_updated": "2026-01-15 22:33:25"
+    },
+    "InsuranceCarrierCompany": {
+        "status": "Completed",
+        "rows_migrated": 1947,
+        "last_updated": "2026-01-15 22:33:26"
+    },
+    "InsuranceCarrierCompanyProcessing": {
+        "status": "Completed",
+        "rows_migrated": 347,
+        "last_updated": "2026-01-15 22:33:26"
+    },
+    "InsuranceCarriers": {
+        "status": "Completed",
+        "rows_migrated": 7812,
+        "last_updated": "2026-01-15 22:33:31"
+    },
+    "InsuranceCarriersIds": {
+        "status": "Completed",
+        "rows_migrated": 1945,
+        "last_updated": "2026-01-15 22:33:33"
+    },
+    "InsuranceCarriersOrderCategory": {
+        "status": "Completed",
+        "rows_migrated": 539,
+        "last_updated": "2026-01-15 22:33:33"
+    },
+    "InsuranceCarriersOrdersApprvProv": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-15 22:33:33"
+    },
+    "InsuranceGroup": {
+        "status": "Completed",
+        "rows_migrated": 41,
+        "last_updated": "2026-01-15 22:33:33"
+    },
+    "InteractionOverride": {
+        "status": "Completed",
+        "rows_migrated": 11822,
+        "last_updated": "2026-01-15 22:33:37"
+    },
+    "JOBTITLE": {
+        "status": "Completed",
+        "rows_migrated": 42,
+        "last_updated": "2026-01-15 22:33:37"
+    },
+    "KDCUPDATE": {
+        "status": "Completed",
+        "rows_migrated": 13667,
+        "last_updated": "2026-01-15 22:33:38"
+    },
+    "Keyword_Search_Results": {
+        "status": "Completed",
+        "rows_migrated": 470,
+        "last_updated": "2026-01-15 22:33:39"
+    },
+    "L3ATTRBIND": {
+        "status": "Completed",
+        "rows_migrated": 614,
+        "last_updated": "2026-01-15 22:33:39"
+    },
+    "L3ATTRDEFINE": {
+        "status": "Completed",
+        "rows_migrated": 220,
+        "last_updated": "2026-01-15 22:33:39"
+    },
+    "L3ATTRTYPE": {
+        "status": "Completed",
+        "rows_migrated": 153,
+        "last_updated": "2026-01-15 22:33:39"
+    },
+    "L3DTS": {
+        "status": "Completed",
+        "rows_migrated": 115,
+        "last_updated": "2026-01-15 22:33:40"
+    },
+    "L3EVENTLOG": {
+        "status": "Completed",
+        "rows_migrated": 715572,
+        "last_updated": "2026-01-15 22:34:57"
+    },
+    "L3FORMATS": {
+        "status": "Completed",
+        "rows_migrated": 16,
+        "last_updated": "2026-01-15 22:34:57"
+    },
+    "L3HIERARCHY": {
+        "status": "Completed",
+        "rows_migrated": 173,
+        "last_updated": "2026-01-15 22:34:57"
+    },
+    "L3QUALIFIER": {
+        "status": "Completed",
+        "rows_migrated": 66,
+        "last_updated": "2026-01-15 22:34:58"
+    },
+    "L3TASKDTS": {
+        "status": "Completed",
+        "rows_migrated": 79,
+        "last_updated": "2026-01-15 22:34:58"
+    },
+    "L3TASKONCE": {
+        "status": "Completed",
+        "rows_migrated": 394,
+        "last_updated": "2026-01-15 22:34:58"
+    },
+    "L3TASKRECUR": {
+        "status": "Completed",
+        "rows_migrated": 80,
+        "last_updated": "2026-01-15 22:34:59"
+    },
+    "L3TASKSTATUS": {
+        "status": "Completed",
+        "rows_migrated": 122,
+        "last_updated": "2026-01-15 22:34:59"
+    },
+    "L3TASKSTEP": {
+        "status": "Completed",
+        "rows_migrated": 82,
+        "last_updated": "2026-01-15 22:34:59"
+    },
+    "L3TASKTYPE": {
+        "status": "Completed",
+        "rows_migrated": 81,
+        "last_updated": "2026-01-15 22:34:59"
+    },
+    "LabOrderPanel": {
+        "status": "Completed",
+        "rows_migrated": 1327614,
+        "last_updated": "2026-01-15 22:36:24"
+    },
+    "Language": {
+        "status": "Completed",
+        "rows_migrated": 486,
+        "last_updated": "2026-01-15 22:36:24"
+    },
+    "LIC_HISTORY": {
+        "status": "Completed",
+        "rows_migrated": 13563,
+        "last_updated": "2026-01-15 22:36:25"
+    },
+    "LinkLogic_Export_Flowsheet": {
+        "status": "Completed",
+        "rows_migrated": 52340,
+        "last_updated": "2026-01-15 22:36:28"
+    },
+    "Load_CPT": {
+        "status": "Completed",
+        "rows_migrated": 18674,
+        "last_updated": "2026-01-15 22:36:31"
+    },
+    "Load_ICD": {
+        "status": "Completed",
+        "rows_migrated": 343785,
+        "last_updated": "2026-01-15 22:37:09"
+    },
+    "Load_PDM": {
+        "status": "Completed",
+        "rows_migrated": 101272,
+        "last_updated": "2026-01-15 22:37:19"
+    },
+    "LOCREG": {
+        "status": "Completed",
+        "rows_migrated": 22,
+        "last_updated": "2026-01-15 22:37:20"
+    },
+    "LoginProcUsers": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-15 22:37:20"
+    },
+    "LOGLOCKS": {
+        "status": "Completed",
+        "rows_migrated": 5435,
+        "last_updated": "2026-01-15 22:37:22"
+    },
+    "LOINC": {
+        "status": "Completed",
+        "rows_migrated": 94383,
+        "last_updated": "2026-01-15 22:37:30"
+    },
+    "Map_LoincNum_HDIDs": {
+        "status": "Completed",
+        "rows_migrated": 278,
+        "last_updated": "2026-01-15 22:37:30"
+    },
+    "Map_OtherCode_HDIDs": {
+        "status": "Completed",
+        "rows_migrated": 6362,
+        "last_updated": "2026-01-15 22:37:31"
+    },
+    "MasterDiagnosis": {
+        "status": "Completed",
+        "rows_migrated": 345314,
+        "last_updated": "2026-01-15 22:38:07"
+    },
+    "MasterDiagnosis_bak": {
+        "status": "Completed",
+        "rows_migrated": 345314,
+        "last_updated": "2026-01-15 22:38:42"
+    },
+    "MasterDiagnosisKeyword": {
+        "status": "Completed",
+        "rows_migrated": 14567,
+        "last_updated": "2026-01-15 22:38:44"
+    },
+    "MasterInsuranceCarriers": {
+        "status": "Completed",
+        "rows_migrated": 6513,
+        "last_updated": "2026-01-15 22:38:45"
+    },
+    "MasterProcedures": {
+        "status": "Completed",
+        "rows_migrated": 20330,
+        "last_updated": "2026-01-15 22:38:47"
+    },
+    "MasterProcedures_bak": {
+        "status": "Completed",
+        "rows_migrated": 20330,
+        "last_updated": "2026-01-15 22:38:50"
+    },
+    "Med_Before_After_Fix": {
+        "status": "Completed",
+        "rows_migrated": 48,
+        "last_updated": "2026-01-15 22:38:51"
+    },
+    "Med_Inconsistent_Data_Fix": {
+        "status": "Completed",
+        "rows_migrated": 24,
+        "last_updated": "2026-01-15 22:38:51"
+    },
+    "MED_OVERRIDE": {
+        "status": "Completed",
+        "rows_migrated": 4011,
+        "last_updated": "2026-01-15 22:38:52"
+    },
+    "MEDDEPT": {
+        "status": "Completed",
+        "rows_migrated": 16634,
+        "last_updated": "2026-01-15 22:38:55"
+    },
+    "MEDDEPT_CPI_BACKUP": {
+        "status": "Completed",
+        "rows_migrated": 19973,
+        "last_updated": "2026-01-15 22:38:59"
+    },
+    "MEDDX": {
+        "status": "Completed",
+        "rows_migrated": 46510,
+        "last_updated": "2026-01-15 22:39:05"
+    },
+    "MEDICATE": {
+        "status": "Completed",
+        "rows_migrated": 3967682,
+        "last_updated": "2026-01-15 23:07:07"
+    },
+    "MEDICATE_AUDIT": {
+        "status": "Completed",
+        "rows_migrated": 1751618,
+        "last_updated": "2026-01-15 23:10:07"
+    },
+    "MEDICATE_CPI_BACKUP": {
+        "status": "Completed",
+        "rows_migrated": 2090795,
+        "last_updated": "2026-01-15 23:22:23"
+    },
+    "MEDICATIONHISTORY": {
+        "status": "Completed",
+        "rows_migrated": 2762970,
+        "last_updated": "2026-01-15 23:30:44"
+    },
+    "medications": {
+        "status": "Completed",
+        "rows_migrated": 4439923,
+        "last_updated": "2026-01-15 23:57:16"
+    },
+    "MEDINFO": {
+        "status": "Completed",
+        "rows_migrated": 50142,
+        "last_updated": "2026-01-15 23:57:26"
+    },
+    "MEDINFO2178BAK": {
+        "status": "Completed",
+        "rows_migrated": 53011,
+        "last_updated": "2026-01-15 23:57:37"
+    },
+    "MEDINFO_plus_delta": {
+        "status": "Completed",
+        "rows_migrated": 1358,
+        "last_updated": "2026-01-15 23:57:37"
+    },
+    "MEDINFOBAK": {
+        "status": "Completed",
+        "rows_migrated": 50142,
+        "last_updated": "2026-01-15 23:57:47"
+    },
+    "MedInteractionOverride": {
+        "status": "Completed",
+        "rows_migrated": 19304,
+        "last_updated": "2026-01-15 23:57:53"
+    },
+    "MedLists": {
+        "status": "Completed",
+        "rows_migrated": 19397,
+        "last_updated": "2026-01-15 23:57:57"
+    },
+    "MedLists_BAK": {
+        "status": "Completed",
+        "rows_migrated": 3909,
+        "last_updated": "2026-01-15 23:57:57"
+    },
+    "Medlists_PreUpgrade": {
+        "status": "Completed",
+        "rows_migrated": 151,
+        "last_updated": "2026-01-15 23:57:57"
+    },
+    "MedListsEditor": {
+        "status": "Completed",
+        "rows_migrated": 132,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKDestination": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKEventLog": {
+        "status": "Completed",
+        "rows_migrated": 573,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKIdMap": {
+        "status": "Completed",
+        "rows_migrated": 1921,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKPatientVisit": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKPatientVisitDiags": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKPatientVisitProcs": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKTrigger": {
+        "status": "Completed",
+        "rows_migrated": 24,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKTriggerDestination": {
+        "status": "Completed",
+        "rows_migrated": 17,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKType": {
+        "status": "Completed",
+        "rows_migrated": 31,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "MIKTypeMap": {
+        "status": "Completed",
+        "rows_migrated": 98,
+        "last_updated": "2026-01-15 23:57:58"
+    },
+    "ML_MERGEAUDIT": {
+        "status": "Completed",
+        "rows_migrated": 5164736,
+        "last_updated": "2026-01-16 00:04:07"
+    },
+    "ML_MERGEGLOBALS": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 00:04:07"
+    },
+    "MM_CEM_EventQueue": {
+        "status": "Completed",
+        "rows_migrated": 1780,
+        "last_updated": "2026-01-16 00:04:07"
+    },
+    "MostUsedProblem": {
+        "status": "Completed",
+        "rows_migrated": 142197,
+        "last_updated": "2026-01-16 00:04:22"
+    },
+    "MRUCUSTOMLISTS": {
+        "status": "Completed",
+        "rows_migrated": 1796,
+        "last_updated": "2026-01-16 00:04:22"
+    },
+    "MRUPatientList": {
+        "status": "Completed",
+        "rows_migrated": 14761,
+        "last_updated": "2026-01-16 00:04:23"
+    },
+    "MRUSelectionList": {
+        "status": "Completed",
+        "rows_migrated": 311,
+        "last_updated": "2026-01-16 00:04:23"
+    },
+    "MS_COPYRIGHT": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 00:04:23"
+    },
+    "MS_D01_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 17386,
+        "last_updated": "2026-01-16 00:04:24"
+    },
+    "MS_D02C_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 1072,
+        "last_updated": "2026-01-16 00:04:24"
+    },
+    "MS_D02I_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 1706,
+        "last_updated": "2026-01-16 00:04:24"
+    },
+    "MS_DDS_COPYRIGHT": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 00:04:24"
+    },
+    "MS_DOSING_PROFILES": {
+        "status": "Completed",
+        "rows_migrated": 74720,
+        "last_updated": "2026-01-16 00:04:32"
+    },
+    "MS_DOSING_PROFILES_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 3659,
+        "last_updated": "2026-01-16 00:04:33"
+    },
+    "MS_DRUG_DOSING": {
+        "status": "Completed",
+        "rows_migrated": 1030921,
+        "last_updated": "2026-01-16 00:08:11"
+    },
+    "MS_DRUG_DOSING_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 43970,
+        "last_updated": "2026-01-16 00:08:22"
+    },
+    "MS_DRUGDIS_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 25263,
+        "last_updated": "2026-01-16 00:08:24"
+    },
+    "MS_ICD9XREF_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 00:08:24"
+    },
+    "MS_M01_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 249,
+        "last_updated": "2026-01-16 00:08:24"
+    },
+    "MS_M02_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-16 00:08:24"
+    },
+    "MS_MESSAGE": {
+        "status": "Completed",
+        "rows_migrated": 10757,
+        "last_updated": "2026-01-16 00:08:25"
+    },
+    "MS_MESSAGE_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 132,
+        "last_updated": "2026-01-16 00:08:25"
+    },
+    "MS_TCRF": {
+        "status": "Completed",
+        "rows_migrated": 8931,
+        "last_updated": "2026-01-16 00:08:26"
+    },
+    "MS_TCRF_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 53,
+        "last_updated": "2026-01-16 00:08:26"
+    },
+    "MUActivityLog": {
+        "status": "Completed",
+        "rows_migrated": 1444545,
+        "last_updated": "2026-01-16 00:12:04"
+    },
+    "MUActivityLogType": {
+        "status": "Completed",
+        "rows_migrated": 28,
+        "last_updated": "2026-01-16 00:12:04"
+    },
+    "MUPatchData": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 00:12:04"
+    },
+    "NDCTODDID": {
+        "status": "Completed",
+        "rows_migrated": 211136,
+        "last_updated": "2026-01-16 00:12:13"
+    },
+    "NDCTODDID_DELTA": {
+        "status": "Completed",
+        "rows_migrated": 2613,
+        "last_updated": "2026-01-16 00:12:13"
+    },
+    "OBS": {
+        "status": "Completed",
+        "rows_migrated": 27635473,
+        "last_updated": "2026-01-16 01:57:04"
+    },
+    "OBS_bak_final": {
+        "status": "Completed",
+        "rows_migrated": 27633473,
+        "last_updated": "2026-01-16 03:39:24"
+    },
+    "OBSHEAD": {
+        "status": "Completed",
+        "rows_migrated": 88088,
+        "last_updated": "2026-01-16 03:39:43"
+    },
+    "OBSNORM": {
+        "status": "Completed",
+        "rows_migrated": 98,
+        "last_updated": "2026-01-16 03:39:43"
+    },
+    "Occupation": {
+        "status": "Completed",
+        "rows_migrated": 540,
+        "last_updated": "2026-01-16 03:39:43"
+    },
+    "ORDDX": {
+        "status": "Completed",
+        "rows_migrated": 9155276,
+        "last_updated": "2026-01-16 03:58:16"
+    },
+    "ORDENCINFO": {
+        "status": "Completed",
+        "rows_migrated": 1059,
+        "last_updated": "2026-01-16 03:58:16"
+    },
+    "ORDER_ENTRY_MODIFIERS": {
+        "status": "Completed",
+        "rows_migrated": 8476,
+        "last_updated": "2026-01-16 03:58:17"
+    },
+    "ORDER_MODIFIERS": {
+        "status": "Completed",
+        "rows_migrated": 8,
+        "last_updated": "2026-01-16 03:58:17"
+    },
+    "ORDERCAT": {
+        "status": "Completed",
+        "rows_migrated": 110,
+        "last_updated": "2026-01-16 03:58:17"
+    },
+    "ORDERCODES": {
+        "status": "Completed",
+        "rows_migrated": 4496,
+        "last_updated": "2026-01-16 03:58:18"
+    },
+    "ORDERDEFAULTS": {
+        "status": "Completed",
+        "rows_migrated": 11,
+        "last_updated": "2026-01-16 03:58:18"
+    },
+    "ORDERS": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:18:11"
+    },
+    "ORDTOCOMPLETE": {
+        "status": "Completed",
+        "rows_migrated": 342139,
+        "last_updated": "2026-01-16 05:18:36"
+    },
+    "PATCHES": {
+        "status": "Completed",
+        "rows_migrated": 98,
+        "last_updated": "2026-01-16 05:18:36"
+    },
+    "PatientContacts": {
+        "status": "Completed",
+        "rows_migrated": 56085,
+        "last_updated": "2026-01-16 05:18:48"
+    },
+    "PatientCorrespondence": {
+        "status": "Completed",
+        "rows_migrated": 849048,
+        "last_updated": "2026-01-16 05:20:31"
+    },
+    "PatientEthnicity": {
+        "status": "Completed",
+        "rows_migrated": 112819,
+        "last_updated": "2026-01-16 05:20:42"
+    },
+    "PatientInfoLog": {
+        "status": "Completed",
+        "rows_migrated": 11739087,
+        "last_updated": "2026-01-16 05:39:07"
+    },
+    "PatientInfoLog_2": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:39:08"
+    },
+    "PatientInsurance": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:43:41"
+    },
+    "PatientInsurance_bak": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:44:35"
+    },
+    "PatientInsurance_bak_final": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:49:23"
+    },
+    "PatientProfile": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:50:23"
+    },
+    "PatientProfile_BAK": {
+        "status": "Completed",
+        "rows_migrated": 16561,
+        "last_updated": "2026-01-16 05:50:38"
+    },
+    "PatientProfileAgg": {
+        "status": "Completed",
+        "rows_migrated": 583136,
+        "last_updated": "2026-01-16 05:51:37"
+    },
+    "PatientProfileAttachment": {
+        "status": "Completed",
+        "rows_migrated": 506,
+        "last_updated": "2026-01-16 05:51:37"
+    },
+    "PatientProfileReport": {
+        "status": "Completed",
+        "rows_migrated": 80,
+        "last_updated": "2026-01-16 05:51:37"
+    },
+    "PatientRace": {
+        "status": "Completed",
+        "rows_migrated": 196766,
+        "last_updated": "2026-01-16 05:51:56"
+    },
+    "PatientRelationship": {
+        "status": "Completed",
+        "rows_migrated": 1688037,
+        "last_updated": "2026-01-16 05:55:35"
+    },
+    "PatientVisit": {
+        "status": "Completed",
+        "rows_migrated": 402294,
+        "last_updated": "2026-01-16 05:59:15"
+    },
+    "PatientVisitAgg": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:59:15"
+    },
+    "PatientVisitAggClosing": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:59:15"
+    },
+    "PatientVisitAmbulance": {
+        "status": "Completed",
+        "rows_migrated": 87020,
+        "last_updated": "2026-01-16 05:59:39"
+    },
+    "PatientVisitAttachment": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 05:59:44"
+    },
+    "PatientVisitDiags": {
+        "status": "Completed",
+        "rows_migrated": 767782,
+        "last_updated": "2026-01-16 06:01:23"
+    },
+    "PatientVisitDiagsRelatedCodes": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 06:01:23"
+    },
+    "PatientVisitFiling": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:01:32"
+    },
+    "PatientVisitFilingConditionCodes": {
+        "status": "Completed",
+        "rows_migrated": 269917,
+        "last_updated": "2026-01-16 06:02:14"
+    },
+    "PatientVisitInsurance": {
+        "status": "Completed",
+        "rows_migrated": 435003,
+        "last_updated": "2026-01-16 06:03:23"
+    },
+    "PatientVisitPaperClaim": {
+        "status": "Completed",
+        "rows_migrated": 15798,
+        "last_updated": "2026-01-16 06:03:25"
+    },
+    "PatientVisitProcs": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:04:45"
+    },
+    "PatientVisitProcsAgg": {
+        "status": "Completed",
+        "rows_migrated": 687551,
+        "last_updated": "2026-01-16 06:06:30"
+    },
+    "PatientVisitResource": {
+        "status": "Completed",
+        "rows_migrated": 325619,
+        "last_updated": "2026-01-16 06:06:56"
+    },
+    "PaymentMethod": {
+        "status": "Completed",
+        "rows_migrated": 440431,
+        "last_updated": "2026-01-16 06:08:36"
+    },
+    "PaymentPlan": {
+        "status": "Completed",
+        "rows_migrated": 209,
+        "last_updated": "2026-01-16 06:08:36"
+    },
+    "PayorTable": {
+        "status": "Completed",
+        "rows_migrated": 525,
+        "last_updated": "2026-01-16 06:08:37"
+    },
+    "Pharmacy": {
+        "status": "Completed",
+        "rows_migrated": 6304,
+        "last_updated": "2026-01-16 06:08:38"
+    },
+    "PlugIn": {
+        "status": "Completed",
+        "rows_migrated": 14,
+        "last_updated": "2026-01-16 06:08:38"
+    },
+    "PREF": {
+        "status": "Completed",
+        "rows_migrated": 55420,
+        "last_updated": "2026-01-16 06:08:41"
+    },
+    "PREFDEF": {
+        "status": "Completed",
+        "rows_migrated": 356,
+        "last_updated": "2026-01-16 06:08:41"
+    },
+    "PRESCRIB": {
+        "status": "Completed",
+        "rows_migrated": 2851634,
+        "last_updated": "2026-01-16 06:36:34"
+    },
+    "PreUpgrade_ComponentSensitiveReport": {
+        "status": "Completed",
+        "rows_migrated": 15,
+        "last_updated": "2026-01-16 06:36:34"
+    },
+    "PreUpgrade_Report": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:36:34"
+    },
+    "PreUpgrade_ReportControl": {
+        "status": "Completed",
+        "rows_migrated": 1142,
+        "last_updated": "2026-01-16 06:36:35"
+    },
+    "PreUpgrade_ReportControlProperty": {
+        "status": "Completed",
+        "rows_migrated": 5094,
+        "last_updated": "2026-01-16 06:36:35"
+    },
+    "PreUpgrade_ReportCriteria": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 06:36:35"
+    },
+    "PreUpgrade_ReportNodes": {
+        "status": "Completed",
+        "rows_migrated": 233,
+        "last_updated": "2026-01-16 06:36:35"
+    },
+    "PreUpgrade_ReportParameter": {
+        "status": "Completed",
+        "rows_migrated": 716,
+        "last_updated": "2026-01-16 06:36:35"
+    },
+    "PreUpgrade_ReportSecurity": {
+        "status": "Completed",
+        "rows_migrated": 2419,
+        "last_updated": "2026-01-16 06:36:36"
+    },
+    "PreUpgrade_SecurityNodes": {
+        "status": "Completed",
+        "rows_migrated": 545,
+        "last_updated": "2026-01-16 06:36:36"
+    },
+    "PRINTATTRS": {
+        "status": "Completed",
+        "rows_migrated": 95,
+        "last_updated": "2026-01-16 06:36:36"
+    },
+    "PRINTERS": {
+        "status": "Completed",
+        "rows_migrated": 5434,
+        "last_updated": "2026-01-16 06:36:36"
+    },
+    "PRINTPRESC": {
+        "status": "Completed",
+        "rows_migrated": 52,
+        "last_updated": "2026-01-16 06:36:36"
+    },
+    "PROBLEM": {
+        "status": "Completed",
+        "rows_migrated": 1853566,
+        "last_updated": "2026-01-16 06:45:49"
+    },
+    "ProblemCodeMap": {
+        "status": "Completed",
+        "rows_migrated": 117366,
+        "last_updated": "2026-01-16 06:45:55"
+    },
+    "ProblemDescriptionMap": {
+        "status": "Completed",
+        "rows_migrated": 101273,
+        "last_updated": "2026-01-16 06:46:04"
+    },
+    "PROBLEMLISTVIEWNAMES": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 06:46:04"
+    },
+    "Procedures": {
+        "status": "Completed",
+        "rows_migrated": 828,
+        "last_updated": "2026-01-16 06:46:05"
+    },
+    "ProceduresFeeSchedule": {
+        "status": "Completed",
+        "rows_migrated": 30075,
+        "last_updated": "2026-01-16 06:46:20"
+    },
+    "ProceduresSpecialty": {
+        "status": "Completed",
+        "rows_migrated": 44124,
+        "last_updated": "2026-01-16 06:46:24"
+    },
+    "QPICKS": {
+        "status": "Completed",
+        "rows_migrated": 738,
+        "last_updated": "2026-01-16 06:46:24"
+    },
+    "RcopiaMapAllergy": {
+        "status": "Completed",
+        "rows_migrated": 205566,
+        "last_updated": "2026-01-16 06:46:59"
+    },
+    "RcopiaMapLocation": {
+        "status": "Completed",
+        "rows_migrated": 18,
+        "last_updated": "2026-01-16 06:46:59"
+    },
+    "RcopiaMapMedication": {
+        "status": "Completed",
+        "rows_migrated": 2067517,
+        "last_updated": "2026-01-16 06:52:53"
+    },
+    "RcopiaMapPatient": {
+        "status": "Completed",
+        "rows_migrated": 195333,
+        "last_updated": "2026-01-16 06:53:24"
+    },
+    "RcopiaMapPrescription": {
+        "status": "Completed",
+        "rows_migrated": 391007,
+        "last_updated": "2026-01-16 06:54:29"
+    },
+    "RcopiaMapProblem": {
+        "status": "Completed",
+        "rows_migrated": 710033,
+        "last_updated": "2026-01-16 06:56:37"
+    },
+    "RcopiaMapUser": {
+        "status": "Completed",
+        "rows_migrated": 593,
+        "last_updated": "2026-01-16 06:56:37"
+    },
+    "RcopiaMessage": {
+        "status": "Completed",
+        "rows_migrated": 147450,
+        "last_updated": "2026-01-16 06:57:24"
+    },
+    "RcopiaMessageStatusReason": {
+        "status": "Completed",
+        "rows_migrated": 28,
+        "last_updated": "2026-01-16 06:57:24"
+    },
+    "RcopiaQuantityUOM": {
+        "status": "Completed",
+        "rows_migrated": 77,
+        "last_updated": "2026-01-16 06:57:24"
+    },
+    "RcopiaSynchronization": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:57:31"
+    },
+    "RcopiaSynchronizationClinical": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:58:42"
+    },
+    "RcopiaSynchronizationMessage": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 06:59:00"
+    },
+    "REL_OBS_EXT_CODE": {
+        "status": "Completed",
+        "rows_migrated": 10227757,
+        "last_updated": "2026-01-16 07:09:45"
+    },
+    "RemitChecks": {
+        "status": "Completed",
+        "rows_migrated": 65,
+        "last_updated": "2026-01-16 07:09:45"
+    },
+    "Report": {
+        "status": "Failed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 07:09:46"
+    },
+    "ReportControl": {
+        "status": "Completed",
+        "rows_migrated": 1142,
+        "last_updated": "2026-01-16 07:09:46"
+    },
+    "ReportControlCriteria": {
+        "status": "Completed",
+        "rows_migrated": 27,
+        "last_updated": "2026-01-16 07:09:46"
+    },
+    "ReportControlProperty": {
+        "status": "Completed",
+        "rows_migrated": 5094,
+        "last_updated": "2026-01-16 07:09:47"
+    },
+    "ReportCriteria": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 07:09:47"
+    },
+    "ReportNameLookup": {
+        "status": "Completed",
+        "rows_migrated": 10,
+        "last_updated": "2026-01-16 07:09:47"
+    },
+    "ReportNodes": {
+        "status": "Completed",
+        "rows_migrated": 233,
+        "last_updated": "2026-01-16 07:09:47"
+    },
+    "ReportParameter": {
+        "status": "Completed",
+        "rows_migrated": 716,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "ReportSecurity": {
+        "status": "Completed",
+        "rows_migrated": 2454,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "ReportSelect": {
+        "status": "Completed",
+        "rows_migrated": 14,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "ResourceTypeAssignments": {
+        "status": "Completed",
+        "rows_migrated": 241,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "ROLETYPE": {
+        "status": "Completed",
+        "rows_migrated": 23,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "RPTPROP": {
+        "status": "Completed",
+        "rows_migrated": 193,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "SAVINQ": {
+        "status": "Completed",
+        "rows_migrated": 1091,
+        "last_updated": "2026-01-16 07:09:48"
+    },
+    "SAVINQPHRAS": {
+        "status": "Completed",
+        "rows_migrated": 5603,
+        "last_updated": "2026-01-16 07:09:49"
+    },
+    "Schedule": {
+        "status": "Completed",
+        "rows_migrated": 3065,
+        "last_updated": "2026-01-16 07:09:50"
+    },
+    "ScheduleResource": {
+        "status": "Completed",
+        "rows_migrated": 346692,
+        "last_updated": "2026-01-16 07:10:36"
+    },
+    "ScheduleTimes": {
+        "status": "Completed",
+        "rows_migrated": 141929,
+        "last_updated": "2026-01-16 07:10:51"
+    },
+    "ScheduleTimesAlloc": {
+        "status": "Completed",
+        "rows_migrated": 348284,
+        "last_updated": "2026-01-16 07:11:31"
+    },
+    "SecurityGroup": {
+        "status": "Completed",
+        "rows_migrated": 25,
+        "last_updated": "2026-01-16 07:11:31"
+    },
+    "SecurityNodes": {
+        "status": "Completed",
+        "rows_migrated": 545,
+        "last_updated": "2026-01-16 07:11:31"
+    },
+    "SecuritySettings": {
+        "status": "Completed",
+        "rows_migrated": 27219,
+        "last_updated": "2026-01-16 07:11:35"
+    },
+    "SequenceNumber": {
+        "status": "Completed",
+        "rows_migrated": 20,
+        "last_updated": "2026-01-16 07:11:35"
+    },
+    "ServerConfig": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 07:11:35"
+    },
+    "ServerSetupEvent": {
+        "status": "Completed",
+        "rows_migrated": 7,
+        "last_updated": "2026-01-16 07:11:35"
+    },
+    "ServerSetupLog": {
+        "status": "Completed",
+        "rows_migrated": 45910,
+        "last_updated": "2026-01-16 07:11:39"
+    },
+    "ServerSetupValidationDBType": {
+        "status": "Skipped/Already Exists",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 07:11:39"
+    },
+    "ServerSetupValidationTypes": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 07:11:39"
+    },
+    "SERVPROV": {
+        "status": "Completed",
+        "rows_migrated": 2740,
+        "last_updated": "2026-01-16 07:11:39"
+    },
+    "SERVPROVORG": {
+        "status": "Completed",
+        "rows_migrated": 195,
+        "last_updated": "2026-01-16 07:11:39"
+    },
+    "SessionIds": {
+        "status": "Completed",
+        "rows_migrated": 169563,
+        "last_updated": "2026-01-16 07:11:56"
+    },
+    "Settings": {
+        "status": "Completed",
+        "rows_migrated": 116759,
+        "last_updated": "2026-01-16 07:12:11"
+    },
+    "SimpleLists": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:12:11"
+    },
+    "SPECIALTYTYPE": {
+        "status": "Completed",
+        "rows_migrated": 39,
+        "last_updated": "2026-01-16 07:12:11"
+    },
+    "SpreadSheetColumns": {
+        "status": "Completed",
+        "rows_migrated": 9441,
+        "last_updated": "2026-01-16 07:12:12"
+    },
+    "SpreadSheets": {
+        "status": "Completed",
+        "rows_migrated": 223,
+        "last_updated": "2026-01-16 07:12:12"
+    },
+    "SpreadSheetsEditor": {
+        "status": "Completed",
+        "rows_migrated": 2780,
+        "last_updated": "2026-01-16 07:12:13"
+    },
+    "SqlCommand": {
+        "status": "Skipped/Already Exists",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 07:12:13"
+    },
+    "State": {
+        "status": "Completed",
+        "rows_migrated": 60,
+        "last_updated": "2026-01-16 07:12:13"
+    },
+    "stateControlledSubstances": {
+        "status": "Completed",
+        "rows_migrated": 1139178,
+        "last_updated": "2026-01-16 07:15:02"
+    },
+    "StatementsCriteria": {
+        "status": "Completed",
+        "rows_migrated": 17,
+        "last_updated": "2026-01-16 07:15:03"
+    },
+    "StatementsCriteriaGuarantor": {
+        "status": "Completed",
+        "rows_migrated": 49448,
+        "last_updated": "2026-01-16 07:15:07"
+    },
+    "SUCPSIndexes": {
+        "status": "Completed",
+        "rows_migrated": 1382,
+        "last_updated": "2026-01-16 07:15:08"
+    },
+    "SUCPSSchemaColumns": {
+        "status": "Completed",
+        "rows_migrated": 8964,
+        "last_updated": "2026-01-16 07:15:09"
+    },
+    "SUDbUpgradeInfo": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:15:09"
+    },
+    "SUIndexesToCreateInUpgradeDB": {
+        "status": "Completed",
+        "rows_migrated": 39,
+        "last_updated": "2026-01-16 07:15:09"
+    },
+    "SUIndexesToDropInUpgradeDB": {
+        "status": "Completed",
+        "rows_migrated": 74,
+        "last_updated": "2026-01-16 07:15:09"
+    },
+    "SUModelCoreSchemaColumns": {
+        "status": "Completed",
+        "rows_migrated": 9013,
+        "last_updated": "2026-01-16 07:15:10"
+    },
+    "SUModelCPSDeveloperIndexes": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-16 07:15:10"
+    },
+    "SUModelCPSIndexes": {
+        "status": "Completed",
+        "rows_migrated": 1385,
+        "last_updated": "2026-01-16 07:15:11"
+    },
+    "SUModelSchemaColumns": {
+        "status": "Completed",
+        "rows_migrated": 9013,
+        "last_updated": "2026-01-16 07:15:12"
+    },
+    "SUPERBILLDEF": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-16 07:15:12"
+    },
+    "SUUpgradeDBIndexes": {
+        "status": "Completed",
+        "rows_migrated": 1412,
+        "last_updated": "2026-01-16 07:15:12"
+    },
+    "SUUpgradeDBSchemaColumns": {
+        "status": "Completed",
+        "rows_migrated": 8921,
+        "last_updated": "2026-01-16 07:15:14"
+    },
+    "SYMBOL": {
+        "status": "Completed",
+        "rows_migrated": 245831,
+        "last_updated": "2026-01-16 07:15:30"
+    },
+    "SYSTEMTEMP": {
+        "status": "Completed",
+        "rows_migrated": 51,
+        "last_updated": "2026-01-16 07:15:30"
+    },
+    "TerminologyMap": {
+        "status": "Completed",
+        "rows_migrated": 18983,
+        "last_updated": "2026-01-16 07:15:31"
+    },
+    "TEXTMACROS": {
+        "status": "Completed",
+        "rows_migrated": 24184,
+        "last_updated": "2026-01-16 07:15:33"
+    },
+    "TicketNumbers": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:15:33"
+    },
+    "tLoadReports_Results": {
+        "status": "Completed",
+        "rows_migrated": 59376,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_PatientBillStatusType": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_Queue": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_QueueAccess": {
+        "status": "Completed",
+        "rows_migrated": 6,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_QueueStatus": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_QueueType": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:15:36"
+    },
+    "TM_Task": {
+        "status": "Completed",
+        "rows_migrated": 92697,
+        "last_updated": "2026-01-16 07:15:51"
+    },
+    "TM_TaskEventType": {
+        "status": "Completed",
+        "rows_migrated": 4,
+        "last_updated": "2026-01-16 07:15:51"
+    },
+    "TM_TaskHistory": {
+        "status": "Completed",
+        "rows_migrated": 260010,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TM_TaskPriority": {
+        "status": "Completed",
+        "rows_migrated": 3,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TM_TaskStatus": {
+        "status": "Completed",
+        "rows_migrated": 10,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TM_TaskType": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TransactionColumnSet": {
+        "status": "Completed",
+        "rows_migrated": 14,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TransactionColumnSetColumns": {
+        "status": "Completed",
+        "rows_migrated": 478,
+        "last_updated": "2026-01-16 07:16:21"
+    },
+    "TransactionDistributions": {
+        "status": "Completed",
+        "rows_migrated": 3859525,
+        "last_updated": "2026-01-16 07:40:50"
+    },
+    "Transactions": {
+        "status": "Completed",
+        "rows_migrated": 2729567,
+        "last_updated": "2026-01-16 07:47:06"
+    },
+    "TWOFACTORAUTHENTICATIONTYPE": {
+        "status": "Completed",
+        "rows_migrated": 1,
+        "last_updated": "2026-01-16 07:47:06"
+    },
+    "TWOFACTORDEVICE": {
+        "status": "Completed",
+        "rows_migrated": 2,
+        "last_updated": "2026-01-16 07:47:06"
+    },
+    "UI_LAYOUT": {
+        "status": "Completed",
+        "rows_migrated": 1225,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "UI_PANEL": {
+        "status": "Completed",
+        "rows_migrated": 8,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "UNIQUEID": {
+        "status": "Completed",
+        "rows_migrated": 0,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "UNIT_FORMS": {
+        "status": "Completed",
+        "rows_migrated": 11,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "USERDICT": {
+        "status": "Completed",
+        "rows_migrated": 1330,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "UserSecurityGroup": {
+        "status": "Completed",
+        "rows_migrated": 1735,
+        "last_updated": "2026-01-16 07:47:08"
+    },
+    "USR": {
+        "status": "Completed",
+        "rows_migrated": 1795,
+        "last_updated": "2026-01-16 07:47:09"
+    },
+    "USR_CredentialedStates": {
+        "status": "Completed",
+        "rows_migrated": 99,
+        "last_updated": "2026-01-16 07:47:09"
+    },
+    "USRFAVCOMPS": {
+        "status": "Completed",
+        "rows_migrated": 898,
+        "last_updated": "2026-01-16 07:47:09"
+    },
+    "USRGROUP": {
+        "status": "Completed",
+        "rows_migrated": 15,
+        "last_updated": "2026-01-16 07:47:09"
+    },
+    "visitcode": {
+        "status": "Completed",
+        "rows_migrated": 15358623,
+        "last_updated": "2026-01-16 08:45:35"
+    },
+    "VisitTransactions": {
+        "status": "Completed",
+        "rows_migrated": 863824,
+        "last_updated": "2026-01-16 08:54:52"
+    },
+    "WaitingList": {
+        "status": "Completed",
+        "rows_migrated": 157,
+        "last_updated": "2026-01-16 08:54:52"
+    },
+    "WaitingListEntry": {
+        "status": "Completed",
+        "rows_migrated": 259,
+        "last_updated": "2026-01-16 08:54:52"
+    },
+    "WORKSTA": {
+        "status": "Completed",
+        "rows_migrated": 207,
+        "last_updated": "2026-01-16 08:54:53"
+    },
+    "WorkstationSequenceNumber": {
+        "status": "Completed",
+        "rows_migrated": 20,
+        "last_updated": "2026-01-16 08:54:53"
+    },
+    "XSLDATA": {
+        "status": "Completed",
+        "rows_migrated": 5,
+        "last_updated": "2026-01-16 08:54:53"
+    },
+    "ZipCodes": {
+        "status": "Completed",
+        "rows_migrated": 42958,
+        "last_updated": "2026-01-16 08:54:58"
+    }
+}

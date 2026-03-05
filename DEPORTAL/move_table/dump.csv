@@ -1,0 +1,13 @@
+SchemaName,TableName,RowCounts
+dbo,PreUpgrade_Report,212
+dbo,Cus_EZP_EmailHistory_Attachments,2
+dbo,Report,212
+dbo,CasesAttachment,234
+dbo,PatientProfileAttachment,506
+dbo,PatientVisitAttachment,1221
+dbo,brandyTrace,70457
+dbo,Cus_EZP_FaxDoc,843381
+
+
+
+

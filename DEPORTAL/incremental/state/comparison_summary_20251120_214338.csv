@@ -1,0 +1,39 @@
+Table,Status,RowsInserted,Duration
+_1SipeBalances11092022,SUCCESS,520729,0:00:42.906596
+_2SipeApptTypeCrosswalk,SUCCESS,15,0:00:01.901310
+_ApptFacilityConversion,SUCCESS,20679,0:00:02.850271
+_appts,SUCCESS,3641458,0:25:43.289029
+_BadGuarantorCarrie,SUCCESS,0,0:00:22.142110
+_badgutmp,SUCCESS,34136,0:00:12.968475
+_badgutmp2,"ERROR: (mysql.connector.errors.DataError) 1292 (22007): Incorrect datetime value: 'NaT' for column 'GULastStatement' at row 1 [SQL: INSERT INTO `CentricityPS_differences`._badgutmp2 (`PatientProfileId`, `PatientId`, `GuarantorId`, `Last`, `First`, `guGuarantorId`, `GUPatientProfileId`, `guLast`, `guFirst`,",0,0:00:04.764925
+_billstatus,SUCCESS,20,0:00:01.897742
+_DateDimension,SUCCESS,10957,0:00:05.241973
+_facility,SUCCESS,84429,0:00:04.082885
+_gu,SUCCESS,487434,0:03:35.588338
+_gu_bak,"ERROR: (mysql.connector.errors.DataError) 1292 (22007): Incorrect datetime value: 'NaT' for column 'Birthdate' at row 1 [SQL: INSERT INTO `CentricityPS_differences`._gu_bak (`GuarantorId`, `PatientProfileId`, `Prefix`, `First`, `Middle`, `Last`, `Suffix`, `Address1`, `Address2`, `City`, `State`, `Zip`, `Co",0,0:00:44.760755
+_guarantorMulti,SUCCESS,11753,0:00:02.171973
+_inscarriers,"ERROR: (mysql.connector.errors.DatabaseError) 1366 (HY000): Incorrect integer value: 'nan' for column 'PolicyTypeMId' at row 24 [SQL: INSERT INTO `CentricityPS_differences`._inscarriers (`InsuranceCarriersId`, `MasterInsuranceCarriersId`, `Inactive`, `Name`, `ListName`, `Address1`, `Address2`, `City`, `Sta",0,0:00:02.739513
+_marianPatientBadGuarantors,SUCCESS,106,0:00:02.025098
+_multiWithSameGuarantor,SUCCESS,11657,0:00:01.957797
+_mytemp,SUCCESS,512213,0:02:38.262960
+_notes,SUCCESS,64486,0:00:09.870740
+_Notes3,SUCCESS,184194,0:00:31.636917
+_PatientIDUpdate,SUCCESS,1676,0:00:02.304827
+_PatientInsuranceUpdate,SUCCESS,7646,0:00:02.494054
+_potentialBadGuarantorsWithStatements,SUCCESS,151,0:00:02.266854
+_pp,"ERROR: (mysql.connector.errors.DatabaseError) 1366 (HY000): Incorrect string value: '\xFF\xD8\xFF\xE0\x00\x10...' for column 'Picture' at row 4 [SQL: INSERT INTO `CentricityPS_differences`._pp (`PatientProfileId`, `PatientId`, `PId`, `PatientStatusMId`, `Prefix`, `First`, `Middle`, `Last`, `Suffix`, `Nickn",0,0:04:08.325268
+_pp2,"ERROR: (mysql.connector.errors.DatabaseError) 1366 (HY000): Incorrect string value: '\xFF\xD8\xFF\xE0\x00\x10...' for column 'Picture' at row 9 [SQL: INSERT INTO `CentricityPS_differences`._pp2 (`PatientProfileId`, `PatientId`, `PId`, `PatientStatusMId`, `Prefix`, `First`, `Middle`, `Last`, `Suffix`, `Nick",0,0:00:04.026711
+_Ref Phys Zips,SUCCESS,9400,0:00:05.791442
+_refprov1,SUCCESS,9560,0:00:04.728541
+_refprov3,SUCCESS,9399,0:00:02.343311
+_sipebadguarantors,SUCCESS,197,0:00:01.926460
+_SipeMarianCheckingActiveIns,SUCCESS,7553,0:00:07.663983
+_SipeMarianIns,SUCCESS,1144,0:00:02.406810
+_typeMissing,SUCCESS,21729,0:00:12.839653
+_zipcodes,SUCCESS,42046,0:00:07.336497
++refprov2,SUCCESS,9399,0:00:02.917303
+aa_AlertNotesUpdateValidation,SUCCESS,14028,0:00:04.509131
+AA_PatientProfileAlertNotesBAK,SUCCESS,531739,0:00:30.383490
+aa_PPAlertNotes,SUCCESS,569238,0:00:26.671358
+aa_PPAlertNotes2,SUCCESS,569238,0:00:27.026432
+AADConfiguration,SUCCESS,49,0:00:00.754019

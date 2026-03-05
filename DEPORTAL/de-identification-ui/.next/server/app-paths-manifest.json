@@ -1,0 +1,5 @@
+{
+  "/clients/[clientId]/dumps/[dumpId]/phi_tables/page": "app/clients/[clientId]/dumps/[dumpId]/phi_tables/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/clients/page": "app/clients/page.js"
+}

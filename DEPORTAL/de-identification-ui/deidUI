@@ -1,0 +1,7 @@
+NEXT_PUBLIC_AUTH_URL="http://localhost:13800/auth/"
+NEXT_PUBLIC_API_URL="http://localhost:13800"
+NEXT_PUBLIC_IS_ONPREM=true
+NEXT_PUBLIC_AUTH_URL="http://localhost:13800/auth/"
+NEXT_PUBLIC_API_URL="http://localhost:13800"
+NEXT_PUBLIC_IS_ONPREM=true
+

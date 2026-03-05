@@ -31,7 +31,7 @@ DEID_DUMP_ID = 7  # match your UI path /clients/1/dumps/7/
 # UI may be on a different port (e.g. 13000); API is on 13800.
 DEID_API_BASE_URL_DEFAULT = "http://10.1.64.35:13800/api"
 DEID_TABLE_NAMES = [
-    "PatientProfile"
+    "PatientProfile",
     # Add more table names as needed.
 ]
 # Optional: if your API requires auth, set e.g. {"Authorization": "Bearer <token>"}
